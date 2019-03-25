@@ -1,0 +1,11 @@
+[2018-09-05 11:19:42] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1202}',
+)  
+[2018-09-05 18:37:03] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '53e5d2870f8a8b6bcd06df3e1a1c8a5c9e9e0fbda6f9527e0b29d143b265e042',
+    'user_id' => 1844,
+  ),
+)  

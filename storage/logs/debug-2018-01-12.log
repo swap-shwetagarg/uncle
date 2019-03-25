@@ -1,0 +1,706 @@
+[2018-01-12 00:00:06] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 00:00:06] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6951983750955449721,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2018-01-12 00:00:06] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:06] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: D63B867B-55A6-6C76-E244-152421883328
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: D63B867B-55A6-6C76-E244-152421883328
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: A127E545-6F02-B345-9DAB-4B78B8DEB50F
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: A127E545-6F02-B345-9DAB-4B78B8DEB50F
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: A127E545-6F02-B345-9DAB-4B78B8DEB50F
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 4CEA08BE-C980-8D80-16BC-1CC2D4FD5461
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 4CEA08BE-C980-8D80-16BC-1CC2D4FD5461
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 4CEA08BE-C980-8D80-16BC-1CC2D4FD5461
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 4CEA08BE-C980-8D80-16BC-1CC2D4FD5461
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 05025F23-46B7-B9B7-EBE3-5229C289A6BB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 05025F23-46B7-B9B7-EBE3-5229C289A6BB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 05025F23-46B7-B9B7-EBE3-5229C289A6BB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 05025F23-46B7-B9B7-EBE3-5229C289A6BB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 05025F23-46B7-B9B7-EBE3-5229C289A6BB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 1EBC5586-4A63-CD74-F977-83214A033587
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 1EBC5586-4A63-CD74-F977-83214A033587
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 1EBC5586-4A63-CD74-F977-83214A033587
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 1EBC5586-4A63-CD74-F977-83214A033587
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 1EBC5586-4A63-CD74-F977-83214A033587
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 1EBC5586-4A63-CD74-F977-83214A033587
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 78AAD580-521E-49F7-F233-754451A894EB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 78AAD580-521E-49F7-F233-754451A894EB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 78AAD580-521E-49F7-F233-754451A894EB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 78AAD580-521E-49F7-F233-754451A894EB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 78AAD580-521E-49F7-F233-754451A894EB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 78AAD580-521E-49F7-F233-754451A894EB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 78AAD580-521E-49F7-F233-754451A894EB
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5691702612707312437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515715208292544%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5691702612707312437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515715208292544%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5691702612707312437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515715208292544%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5691702612707312437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515715208292544%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5691702612707312437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515715208292544%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5691702612707312437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515715208292544%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5691702612707312437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515715208292544%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 00:00:08] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5691702612707312437,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515715208292544%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 01:45:57] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '3d1aa02fd069802052946cdcbf5e3b1fec0b5664d1b105acd75ee550d2bea327',
+    'user_id' => 928,
+  ),
+)  
+[2018-01-12 17:51:37] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 558,
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7253918317444713913,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515779498281673%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7253918317444713913,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515779498281673%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: CFC127BB-AB66-EA52-5298-54B8A386945A
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: CFC127BB-AB66-EA52-5298-54B8A386945A
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 17:51:38] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: CFC127BB-AB66-EA52-5298-54B8A386945A
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 17:52:06] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 558,
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8095907337847110467,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515779527407428%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8095907337847110467,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515779527407428%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 3732B01F-CA4E-815E-D0D3-0B09B54F2819
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 3732B01F-CA4E-815E-D0D3-0B09B54F2819
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 17:52:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 3732B01F-CA4E-815E-D0D3-0B09B54F2819
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 17:52:24] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 559,
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8406826685952678262,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515779545269870%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8406826685952678262,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515779545269870%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: A802ABF2-177D-E456-E10A-184ED8D8B487
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: A802ABF2-177D-E456-E10A-184ED8D8B487
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 17:52:25] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: A802ABF2-177D-E456-E10A-184ED8D8B487
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 18:29:39] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 560,
+)  
+[2018-01-12 18:29:39] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 18:29:39] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 18:29:39] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8001353811451915923,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515781779949139%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 18:29:39] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8001353811451915923,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515781779949139%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 18:29:39] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 18:29:39] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 18:29:39] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 18:29:40] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: AB1DEECC-02FC-C304-A698-26DA507DD196
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 18:29:40] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: AB1DEECC-02FC-C304-A698-26DA507DD196
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 18:29:40] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: AB1DEECC-02FC-C304-A698-26DA507DD196
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 18:30:00] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 559,
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5154956245893136642,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515781801164085%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5154956245893136642,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515781801164085%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 97862CD3-7E0F-777F-C230-256F8520C585
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 97862CD3-7E0F-777F-C230-256F8520C585
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 18:30:01] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 97862CD3-7E0F-777F-C230-256F8520C585
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-12 21:22:05] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fSoeTZJJJL0:APA91bFwT6sJNz5NvSA0-7910MNXoQ0KJUwJLKhSqbDxZjvgFKKfkqrt0zCIgUQ1JyGI8JwbUNmCH7heMLPqNsH1MRZ24zy4oJzxuCk8-pDtnyZc4byc56UIX_QBB7cRgoe6wm0mbpa_',
+    'user_id' => 930,
+  ),
+)  
+[2018-01-12 22:44:58] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 561,
+)  
+[2018-01-12 22:44:59] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 22:44:59] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-12 22:44:59] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5137648187402832972,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515797099778808%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-12 22:44:59] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5137648187402832972,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515797099778808%5f25f726f9fd7ecd"}]}',
+)  

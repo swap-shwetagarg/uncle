@@ -1,0 +1,39 @@
+[2018-06-23 11:36:16] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fVnZKDcMhgY:APA91bHAOI-lvkhKrG0cNRI6nFSs9EZmDfpa69iWqz6v-HfKVbI0c41m2gQA_rDiQe0e_4ZRAJ0zWWaQ3Gp-OdJT6B_Mdk8siNgzcTS2oFoS2rIgVJ2DpnaTQMs37Or0RxBBLPuQACN9Fqg4PTMqzOI-bzhBcOMp7A',
+    'user_id' => 1639,
+  ),
+)  
+[2018-06-23 15:50:09] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'e-s5SIMrOUg:APA91bEBVfg9hsBInWwxp81jMqvy07phYBmIt_hb8Y0p0hpja-hgX3D0zPQYUd4QlghWjjhU5NZ6NdZKJn9tVl9vUp5vmE0yseV1ab_BZZb9ioJytJzDLHJe49W_XnQD6gM21gb-Xj9bveqyhMjScYrBXwT-rq0w8Q',
+    'user_id' => 1640,
+  ),
+)  
+[2018-06-23 19:08:05] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'e_BR4D2mU2E:APA91bFryIx5wJgrjImX48UPs7p1VK4_f1N_z80D--gOCnEpmEilgm6s65EeOYGf844bOydqFPDpkL9UExG_m_ceCgAuKbqRGYpYDgRRtWZwH4tWVQTE0oa51LqyYKU3wUavrkdTlgR4EHmFR5TlwaLb1Tkur-4O0w',
+    'device' => 'android',
+    'user_id' => 1641,
+  ),
+)  
+[2018-06-23 22:21:53] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 29950 User ID: 1642}',
+)  
+[2018-06-23 22:21:54] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Jeffrey Godwyll",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-06-23 22:21:55] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1642}',
+)  
+[2018-06-23 22:21:55] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1642}',
+)  

@@ -1,0 +1,15 @@
+[2019-03-22 05:16:46] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 72561 User ID: 1}',
+)  
+[2019-03-22 05:16:47] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Uncle Fitter Admin",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2019-03-22 05:16:48] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1}',
+)  
+[2019-03-22 05:16:48] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1}',
+)  

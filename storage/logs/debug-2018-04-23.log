@@ -1,0 +1,64 @@
+[2018-04-23 06:07:05] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'e1bf4eb26e3973141995256c9fc08c0652003a67a45d7a4093aa679c051deeb1',
+    'user_id' => 1445,
+  ),
+)  
+[2018-04-23 06:23:42] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'erEdbXIJ2GI:APA91bHOj6s-yLnC0-LEjkbazHhECwhQpnfuPStv9KVYho2yIC9BUFtScSmU8NpdNBl5ZSwzpUOD2gghUjkYRBojuw06ny38AC-V9Ux-51Ul1HDrK9B3veQG0EDsE-bYRbQuL20NdCdE',
+    'user_id' => 1446,
+  ),
+)  
+[2018-04-23 10:16:34] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '7c829d1d2795ef719f30bebeeefa1b915ef3a3a65a8ccd7e7c6d46fecb9bc5c4',
+    'user_id' => 1447,
+  ),
+)  
+[2018-04-23 13:58:12] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'f-RTeK8o8hQ:APA91bHcjGT6sxYT1zmqOWoTxGBr_PhKCvZdMIBMUFJElo1yYoK0JlT-iI9GMs565-gChbEn9t5oIWw4WFvZ3Y62f61ST1Sq38AzAFPGp1xUaRimgfNbg27XcJshdoR22gXlxbpXggkV',
+    'user_id' => 1448,
+  ),
+)  
+[2018-04-23 17:53:01] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'f0k0JFgiCnU:APA91bE-1vTBa-tbtlaMGtLeF6q-MZ4hxg_h_MerVeg80_3V7JTUN_LBayEay24B3UQqVLefP779kl-W7BbEBRip1GLPf5-asgMYxk3hh8lne2DhM6SMvlILrGsgyEiYlEPlmFqYQ9ib',
+    'user_id' => 1449,
+  ),
+)  
+[2018-04-23 22:01:29] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cyHdlfOZd4w:APA91bGE8Tzg0UTGNxYAWYGSRDVH8meoff_5jhlms8TN3i7LcxFgYkPqhIJ8a7D8F3jFDhD4HE7B5SW4sTUCEVzY9PnUxXnO-UHQ23z56anVkw6B9DemuigzEkX-DrZD6CoHZPHWHt3M',
+    'user_id' => 1451,
+  ),
+)  
+[2018-04-23 22:44:12] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fKc9qMv1IqQ:APA91bGYM9t-BhaQbXBLF1efYEyoIR7wQfCagvBrjin1uUNuWeSKn5ghTkZCLWJgRlUNZqx31Z--vWdgcYBmF5LrDA5HMubAp80mNaeW8RDh7f1EEK3B08yiGYbQKUesSHmFGaFyuOug',
+    'user_id' => 1452,
+  ),
+)  
+[2018-04-23 23:27:01] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'b3ca8a011d18c7285d55761a71cecc323264616151a4f1f1e9647ecc190956c7',
+    'user_id' => 1453,
+  ),
+)  

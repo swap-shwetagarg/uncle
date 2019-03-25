@@ -1,0 +1,734 @@
+[2019-02-14 09:55:36] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'b79955effd67a8bf16069f15f3a4eef142f154c88aca022e444a8236c791f563',
+    'user_id' => 56,
+  ),
+)  
+[2019-02-14 09:57:07] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:57:07] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5530463424901391827,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:58:59] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:58:59] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7826578531595515123,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8660506787263826536,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 09:59:01] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8757364948242275067,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550138341704978%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 10:34:48] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 10:34:48] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9050826137854342707,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550140488425633%5f25f726f9fd7ecd"}]}',
+)  
+[2019-02-14 14:29:50] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '16439b1af04549ed18038de1e1b5def3a730536d5ea7104c87ec957f0b03a922',
+    'user_id' => 2240,
+  ),
+)  
+[2019-02-14 18:27:22] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'a73255dc93171be534bc9e808e8771dbe39532374f3a653985bc1507761523b4',
+    'user_id' => 2241,
+  ),
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8952906577886036795,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8952906577886036795,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6881693738252370471,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6881693738252370471,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6881693738252370471,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6566702392798849246,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550173089157912%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6566702392798849246,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550173089157912%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6566702392798849246,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550173089157912%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6566702392798849246,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550173089157912%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5648016605966295554,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5648016605966295554,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5648016605966295554,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5648016605966295554,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5648016605966295554,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7477512004035081915,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7477512004035081915,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7477512004035081915,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7477512004035081915,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7477512004035081915,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7477512004035081915,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4946136408329852493,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4946136408329852493,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4946136408329852493,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4946136408329852493,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4946136408329852493,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4946136408329852493,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4946136408329852493,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6637902461229357328,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6637902461229357328,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6637902461229357328,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6637902461229357328,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6637902461229357328,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6637902461229357328,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6637902461229357328,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6637902461229357328,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8177443283250176381,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8177443283250176381,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8177443283250176381,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8177443283250176381,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8177443283250176381,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8177443283250176381,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8177443283250176381,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8177443283250176381,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8177443283250176381,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:49] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:49] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5396086547817468414,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5396086547817468414,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7868255189698183070,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7868255189698183070,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7868255189698183070,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5574229471611276807,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550173130092839%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5574229471611276807,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550173130092839%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5574229471611276807,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550173130092839%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5574229471611276807,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550173130092839%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6407045664232915786,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6407045664232915786,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6407045664232915786,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6407045664232915786,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6407045664232915786,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9087947667360966638,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9087947667360966638,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9087947667360966638,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9087947667360966638,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9087947667360966638,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9087947667360966638,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5719003595132946508,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5719003595132946508,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5719003595132946508,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5719003595132946508,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5719003595132946508,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5719003595132946508,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5719003595132946508,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5304407532267065938,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5304407532267065938,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5304407532267065938,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5304407532267065938,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5304407532267065938,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5304407532267065938,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5304407532267065938,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5304407532267065938,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4814426436862081089,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4814426436862081089,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4814426436862081089,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4814426436862081089,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4814426436862081089,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4814426436862081089,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4814426436862081089,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4814426436862081089,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 19:38:50] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4814426436862081089,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-02-14 21:23:27] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'ehCXZB3gUQs:APA91bGZt85Vh691AL0BXby8CA3T9MzJ9F-sRiJyTYW3CZ1RXau8PteaX8azkbKgdv_jKRpVjWys2l27XvxAws8I0qz28VEGUVmuYG0ooDkSb2yVUdoXFC8DYsmdXyrajDPzx9T80mzp',
+    'user_id' => 2242,
+  ),
+)  
+[2019-02-14 21:28:06] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-14 21:28:06] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4768453693645291332,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550179686939994%5f25f726f9fd7ecd"}]}',
+)  

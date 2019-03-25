@@ -1,0 +1,34 @@
+[2018-03-05 10:52:49] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 869,
+)  
+[2018-03-05 13:20:31] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 870,
+)  
+[2018-03-05 13:47:01] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 868,
+)  
+[2018-03-05 16:36:56] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'ezys4EOxPg0:APA91bEOS3f-8gmKtGTpsd9jTFRTpeiNC_l3Z0Shr7dIvE4SIyLmm07jyrUp_MHC6PbjO8Z21mZYGrFH2Y-3Z5Sc0u5aBkmKH09HnIBnd2y79Vj82xAkoXtlSo4N3bgPlobLcmkKsYjL',
+    'user_id' => 1301,
+  ),
+)  
+[2018-03-05 20:26:24] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'dac45b5a20c60decc821e4c9e5c2896e91bf87bbdf0c83587132feba2e1d7b6e',
+    'user_id' => 1302,
+  ),
+)  
+[2018-03-05 20:29:20] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 871,
+)  
+[2018-03-05 20:31:43] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 872,
+)  
+[2018-03-05 20:46:00] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 873,
+)  

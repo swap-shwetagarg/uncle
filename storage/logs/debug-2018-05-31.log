@@ -1,0 +1,56 @@
+[2018-05-31 16:56:22] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '391618aa26a080fac90532c279c06791bc1c686ce6aa1942958885782237baf7',
+    'user_id' => 1588,
+  ),
+)  
+[2018-05-31 19:14:33] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:14:39] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:16:14] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:16:19] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:16:24] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:16:29] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:17:12] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:17:15] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:17:22] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:17:25] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 5.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:18:23] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 4.0,5.0,5.0,5.0, 4.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:18:29] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 4.0,5.0,5.0,5.0, 4.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:18:31] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 4.0,5.0,5.0,5.0, 4.0, 1152, 878, 1525))',
+)  
+[2018-05-31 19:18:37] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 4.0,5.0,5.0,5.0, 4.0, 1152, 878, 1525))',
+)  
+[2018-05-31 20:38:48] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 4.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  
+[2018-05-31 20:38:54] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8D\\xF0\\x9F...\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Very professional guy who knows what he is doing and engaged me through out his inspection. I learnt a whole lot from him. 👍🏾, 4.0,5.0,5.0,5.0, 5.0, 1152, 878, 1525))',
+)  

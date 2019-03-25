@@ -1,0 +1,24 @@
+[2019-03-08 06:49:06] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '93cd1cd957ddf44d0f7b2924323ae03ca12de130356ca01fd60b8a159e44af5e',
+    'user_id' => 1271,
+  ),
+)  
+[2019-03-08 09:22:25] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '85edd6240d59e5df5fb553fa7e597c13c5f80325877156dea405d091a96ce3f6',
+    'user_id' => 2285,
+  ),
+)  
+[2019-03-08 21:52:25] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'c7adf4e0314789484bac42b4445c6aea7349a4de1b8b8c4e608ccb2b0cad1357',
+    'user_id' => 1713,
+  ),
+)  

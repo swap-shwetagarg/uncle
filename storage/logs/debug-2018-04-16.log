@@ -1,0 +1,35 @@
+[2018-04-16 07:29:42] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'cWYUavNLqA4:APA91bHllpp5ifQH12UTJQ5tc3OrJ5GODx6Flw_x4OA0Lg57H_7rG190dXpj_j2cQ7YnFJsQysuhYYYQATkOCq6EDt7na54UADp6Jlh6kmp5tPbD-1m5ER7fvudqEzWQSi315GmFUJFz',
+    'device' => 'android',
+    'user_id' => 1383,
+  ),
+)  
+[2018-04-16 10:49:39] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dMEkiAS0Or4:APA91bF08BYS96QpYvXTgau9m7jgHpZJTyH6mlL_056QKHdKgoMiYbOngsQLGfViWP4U27LZDWZ9HVopWqOKKmsVPkWwm8rX9SSqUcelWHZ7ZkWfsUS2Xxtccyg4HXpQPr1c1HqKTCHw',
+    'user_id' => 1384,
+  ),
+)  
+[2018-04-16 17:50:29] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'c28n2hnwIaM:APA91bH3oXjaknz-t3ceHKVRksIZ4bnA4P6GtLsnzcGU20HRtsIJik84dcvVwR_a6DxiI5aGT2Rt6JMBdyqRNmxrNQzUkylczaKPDv92iPgGxwZaL2Q_YTBskCPUEVgB-RxKaUg6S7n_',
+    'user_id' => 1385,
+  ),
+)  
+[2018-04-16 21:14:35] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1376}',
+)  
+[2018-04-16 22:03:55] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cNTIPNWT87E:APA91bE78lLk3u0A7xIOXwTVYNTK2VL_Y1PTcBirx4zu1C9-NwlP3S20rqME0esgXArn7XS46MutmPZovIfnS9Ksvk6FMd2XbtTC9lGrS6tqUU_7wdqEXnDEglPIYrHuIz_-lfzIGfHn',
+    'user_id' => 878,
+  ),
+)  

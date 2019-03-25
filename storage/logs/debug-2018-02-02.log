@@ -1,0 +1,64 @@
+[2018-02-02 00:00:06] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-02-02 00:00:06] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: BAE83217-A91F-7F3B-637D-87D89B97A36D
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-02-02 07:10:19] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eYlJmjpjaqs:APA91bFwTcfmyqjsRoraHfTyB_Pxvgg2a0OCU8gx9QIaWgjWOp6BYblE9n46mr9H68uLHinhcNEDtNsn40fGX53rKMi4YoiJ6zhBzI3dkN2-Wmv3hRv7Rwz71Hvkc-kG6J0mW_YNIHID',
+    'user_id' => 1071,
+  ),
+)  
+[2018-02-02 08:09:45] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 665,
+)  
+[2018-02-02 08:38:43] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '9f6d87e565a7ab24d518ca346ead7e1e8f2d2c7e63f5e45c9be4ce3892d00f16',
+    'user_id' => 1072,
+  ),
+)  
+[2018-02-02 11:28:20] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dasvF4YJlzQ:APA91bG66-uwp2l5r5dy38CgDc_s97VMhZXMPbXi88Iiw0xZi5EA5DC_xNibYEnEz6ozF-A3jxBeDrebY20bROL6a_YfvBMg3MgPLVzAgMfuqYk4D2B-pFOAUL4bZa8SKYlnC933bB-D',
+    'user_id' => 3,
+  ),
+)  
+[2018-02-02 11:40:29] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dCxNNsjLnrA:APA91bHUyH4nUyEYxBoY-O_YjfmxrwPfE0fquP8eqRUOMgQMJD-yy7DQSsMr_AgJ2BOtxB1FGJ7QNCUjp6oJgjYQhoDskOeJNcSETthm0nZtyk3AE-uk1OgawCv_h_Z08KIqRNGoWPCP',
+    'user_id' => 3,
+  ),
+)  
+[2018-02-02 12:06:04] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'c6UtYB2RXb4:APA91bF9XsdX-QpgKZ20uyg5T--_3YRxWhyH31ZuxOU1KwGAKasJmBgnecbPuaPZGkMCHK_rEcVIbf3cxjc-A0KNaGh0R1kth8nlASE9T6hbhE0x9jg8V6d0e__QlnLRl-bOi_QIfV1W',
+    'user_id' => 3,
+  ),
+)  
+[2018-02-02 23:50:26] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'e3QilN6LKZE:APA91bFmtQbFqqYoP40Doncul0W06RB_FiIBr1DQzMmscDYInlGFUOXBi1U4YGQPZLlcL26KuNxmG0z7xdTxNraYAoVcyyGS1FpwgapzF4o-6lWnnRUmkFkVDzhEitIF5v8F5be3lWv1',
+    'user_id' => 1073,
+  ),
+)  

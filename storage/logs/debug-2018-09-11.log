@@ -1,0 +1,19 @@
+[2018-09-11 09:21:56] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1846}',
+)  
+[2018-09-11 14:05:43] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cfLc_JtWn1w:APA91bHccwDYNWOW8r0fcqy0AhrnLdBv_jaZgDTMp5jV8pdBvciYRK3CymjUqslMlXI3rsFA1Dwee667-9PiR2p6IY6scCAOn1GsAY1ogD2_DOuicjsnsMmNN8p91pKOQ184ia16TU_b',
+    'user_id' => 1850,
+  ),
+)  
+[2018-09-11 17:57:29] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eT3cRVZx5BQ:APA91bGxBVW8496VSt-ZAw9jWwW6-KvCl6d6FciB3GGCyex6RXdDdu-HPPjA3SKhWMCxa0rttmhwvowyjxZjFMh5GDWOtHM84qF4rs4JGgfxLm6BVlpji0tjfI5m2aPa-7lxn7pnKX-U',
+    'user_id' => 1851,
+  ),
+)  

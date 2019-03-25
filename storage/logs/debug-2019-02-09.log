@@ -1,0 +1,101 @@
+[2019-02-09 09:33:42] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 625}',
+)  
+[2019-02-09 10:02:34] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '18d04c23ade3441405e5cee79632916fd9445dca3fa67f55f9db08cee833b1b6',
+    'user_id' => 2225,
+  ),
+)  
+[2019-02-09 11:04:14] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 625}',
+)  
+[2019-02-09 13:23:57] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '4a3a4956cb757a20bdbdce3d1af0ae6af7f7f14ad10fd8bf7bc400904678081f',
+    'user_id' => 2226,
+  ),
+)  
+[2019-02-09 14:38:17] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry \'1789-2238-1562\' for key \'no_duplicate_rating\' (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (, 5.0,5.0,5.0,5.0, 5.0, 2238, 1789, 1562))',
+)  
+[2019-02-09 14:39:00] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry \'1789-2238-1562\' for key \'no_duplicate_rating\' (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (, 5.0,5.0,5.0,5.0, 5.0, 2238, 1789, 1562))',
+)  
+[2019-02-09 15:04:44] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-09 15:04:45] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5624634366187308373,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1549724685042600%5f25f726f9fd7ecd"}]}',
+)  
+[2019-02-09 15:20:27] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-09 15:20:27] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4994031549615497767,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1549725627664584%5f25f726f9fd7ecd"}]}',
+)  
+[2019-02-09 15:21:43] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-09 15:21:43] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6961371685283922876,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1549725703387984%5f25f726f9fd7ecd"}]}',
+)  
+[2019-02-09 15:21:43] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-09 15:21:43] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-09 15:21:43] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-09 15:21:43] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5050877195946567110,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1549725703748886%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-09 15:21:43] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5050877195946567110,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1549725703748886%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-09 15:21:43] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5050877195946567110,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1549725703748886%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-02-09 16:01:15] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'c95Quke99w8:APA91bHjClv8uwg-koLhgzlrgWoCTFuIXYTRtvl62vbhJFgrF4Mj5VLb4XLiz14HPtF0fwRPkYHDdvsOpOg5CtTrSv1UDAD4fRBpzD-xkGSps-ps8SO50UhwXW9-1vjclmzkVmSg7e6-',
+    'device' => 'android',
+    'user_id' => 2227,
+  ),
+)  
+[2019-02-09 18:30:21] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 30455 User ID: 2228}',
+)  
+[2019-02-09 18:30:22] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Akua Amoah",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2019-02-09 18:30:23] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 2228}',
+)  
+[2019-02-09 18:30:23] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 2228}',
+)  
+[2019-02-09 20:17:23] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-09 20:17:23] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5211897121206738809,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1549743443668974%5f25f726f9fd7ecd"}]}',
+)  
+[2019-02-09 21:47:17] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'aa7353b79a4db49fd70d01d15f467df32e4adcef023948f69f329609ad6a48d8',
+    'user_id' => 2229,
+  ),
+)  

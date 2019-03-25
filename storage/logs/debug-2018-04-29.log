@@ -1,0 +1,11 @@
+[2018-04-29 14:43:33] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'ftuCdOQpi9Y:APA91bFck8Vs1PZgb22JbE4oGCzAlXsjx0esAcGeWtL-jXyxuVaYwUEagiGBFx6To7J-AtP1skOPO-5DWOthPudByxaHfWxQGTuTHuaD9LCLosY5rwDjsLrYLQ6lULjLN7Taq1gYQjB_',
+    'user_id' => 1472,
+  ),
+)  
+[2018-04-29 19:08:36] production.ERROR: array (
+  'Request' => 'SQLSTATE[HY000]: General error: 1366 Incorrect string value: \'\\xF0\\x9F\\x91\\x8C\' for column \'user_note\' at row 1 (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (Awesome 👌, 5.0,5.0,5.0,5.0, 5.0, 1081, 104, 998))',
+)  

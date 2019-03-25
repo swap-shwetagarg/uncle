@@ -1,0 +1,94 @@
+[2018-03-09 06:18:33] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 889,
+)  
+[2018-03-09 06:36:48] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '7e558dc7a3e9cb347325be2638ff40f23a66acd22e96e0a8f21a7cc62d27d4cc',
+    'user_id' => 3,
+  ),
+)  
+[2018-03-09 07:10:06] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '0259d49646115b0961381425ae58ebd0785deeb37ac62de7b9d431d0a3a46691',
+    'user_id' => 1309,
+  ),
+)  
+[2018-03-09 08:18:51] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dqk3GgkwI1k:APA91bFiDRy6HEXzBLkQkAMt2VBSRC3zAPEatlFsg-wivt0l8IoPeY89aRNmhfquIoBH4zgWy3rOzO2cGPT8ohxVx_KNKaFj5jAAT5PoyW3xys6kdHPueHT9490jjpJAnIdrCUIgHkDt',
+    'user_id' => 1310,
+  ),
+)  
+[2018-03-09 08:23:31] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eim1Vb7X5dI:APA91bFMVeavtiAjYYNnGlxCVMOseAqI6XvC8CDWw6bOTtWp-WWB2MfSMOZQxIZ6kSUyyKACWwg-uFKBdwQIiwtGuiU5qtG8pwFukjScaoC47FdkNiIu_5z_4XVTMPulGmdC6CGeePCy',
+    'user_id' => 898,
+  ),
+)  
+[2018-03-09 08:43:42] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 890,
+)  
+[2018-03-09 08:48:17] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 891,
+)  
+[2018-03-09 09:08:03] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 892,
+)  
+[2018-03-09 11:28:18] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'a273e83afc75d5319df56d39c3a1112ced12cb6b2e2b188cf05b6188e4406dd0',
+    'user_id' => 56,
+  ),
+)  
+[2018-03-09 11:51:54] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 896,
+)  
+[2018-03-09 12:02:05] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'e43bfc40cf48fda2e76e613405710319e5a6b83b0f9cdf560bfd3403cc58c5e2',
+    'user_id' => 666,
+  ),
+)  
+[2018-03-09 13:41:57] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cQcfxBW0uMs:APA91bEwrr2Cqh34KI44Rh0v1t2TPxb1qsDyQPgGV6jQF46-M3C3F-8sxwCdwndA0c-ADBdYdc1fwv4zRN3jXIjfzjupgxrtyABWuiDcOGx8v-PlXhLheD-3iFO1mIGd52ODcKywQPCb',
+    'user_id' => 914,
+  ),
+)  
+[2018-03-09 17:16:59] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'erU13cICChE:APA91bHBI4BG5DuMBlpFmZ34RE5cJQMXJ2u_t58qxPfts4u1Y4RUv0X8YIbToBUKhyvNXXWv0oHLvVQh3NtNUlVAnTcJAKv6u8YlsW3LapE7FZtCBqHepJcj0NmzYOj0jMenglbihF5u',
+    'user_id' => 1311,
+  ),
+)  
+[2018-03-09 23:46:25] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 66125 User ID: 1312}',
+)  
+[2018-03-09 23:46:26] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Edward Jay Mac-Palm",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-03-09 23:46:27] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1312}',
+)  
+[2018-03-09 23:46:27] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1312}',
+)  

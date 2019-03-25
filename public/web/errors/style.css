@@ -1,0 +1,94 @@
+.oops{
+	text-align: center;
+}
+.oops h1{
+	color: #fd4339;
+    font-size: 42px;
+    margin-bottom: 75px;
+}
+.oops a{
+	background: #fd4339;
+    font-size: 19px;
+    padding: 15px 53px;
+    color: #fff;
+    border-radius: 25px;
+    text-transform: uppercase;
+    transition: all .3s ease-in-out;
+    text-decoration: none;
+    position: relative;
+    top: 26px;
+}
+.oops a:hover{
+    text-decoration: none;
+    color: #000;
+}
+.oops a:focus{
+	box-shadow: none !important;
+    outline: none !important;
+}
+
+body{
+                color:#fff;
+                font-family: 'Open Sans', sans-serif;
+                max-height:700px;
+                overflow: hidden;
+            }
+            .c{
+                text-align: center;
+                display: block;
+                position: relative;
+                width:80%;
+                margin:200px auto;
+            }
+            ._404{
+                font-size: 35px;
+                position: relative;
+                display: inline-block;
+                z-index: 1;
+                height: 150px;
+                letter-spacing: 1px;
+                color: #fd4339;
+            }
+            .text{
+                font-size: 70px;
+                text-align: center;
+                position: relative;
+                display: inline-block;
+                margin: 19px 0px 0px 0px;
+                /* top: 256.301px; */
+                z-index: 3;
+                width: 100%;
+                line-height: 1.2em;
+                display: inline-block;
+            }
+           
+
+            .btn{
+                background-color: rgb( 255, 255, 255 );
+                position: relative;
+                display: inline-block;
+                width: 358px;
+                padding: 5px;
+                z-index: 5;
+                font-size: 25px;
+                margin:0 auto;
+                color:#33cc99;
+                text-decoration: none;
+                margin-right: 10px
+            }
+            .right{
+                float:right;
+                width:60%;
+            }
+            
+            hr{
+                padding: 0;
+                border: none;
+                border-top: 5px solid #fd4339;;
+                text-align: center;
+                margin: 0px auto;
+                width: 420px;
+                height:10px;
+                z-index: -10;
+                color: #fd4339;
+            }  

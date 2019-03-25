@@ -1,0 +1,31 @@
+[2019-02-26 05:49:43] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'ce92cbee440bdb9afac6ef5e887033f793a6e612e8ed01882a194b126b82c8ed',
+    'user_id' => 2048,
+  ),
+)  
+[2019-02-26 08:14:57] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 28469 User ID: 2267}',
+)  
+[2019-02-26 08:14:57] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Sidney Ashong",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2019-02-26 08:14:58] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 2267}',
+)  
+[2019-02-26 08:14:58] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 2267}',
+)  
+[2019-02-26 13:06:12] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '845d3c2e71a24a2d261938c21778527e5653b3e75487c2a5afddae7ebfa9ed8b',
+    'user_id' => 2268,
+  ),
+)  

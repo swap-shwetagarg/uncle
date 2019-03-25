@@ -1,0 +1,51 @@
+[2018-01-13 03:49:24] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '2789a88d421af8c5835d2b8017c69ab3eb2707b30980ac2ac04a322faf5303fb',
+    'user_id' => 931,
+  ),
+)  
+[2018-01-13 20:53:56] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dQCGqEPnpkQ:APA91bFdhBgp0PrQLf9cHS6n9gmk5feTj5aLPF4k3pjdyj5dGfMmK4UsLsonAJ8tZdnOZEKjHgE_cyqF2r8FWcX7K4MNMxpDjkEldzk2LTfcG86pjT6QXL9W6K2zM1BsZOF7sEyg3N6d',
+    'user_id' => 932,
+  ),
+)  
+[2018-01-13 21:35:15] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'er3cR6ZGwKU:APA91bF6mxCKeEIZ3X-T0WW2rGund8mrxmgln5gcwlSDwI8Duy2JZYXiivDVz2EnFJh4lcEC7IY8W3ZwBNBNf_v3-uJ8dwpSlHARr_evt0GwUx9HoAnpF-L5BVI2Wk_4oqxIZjMtESzS',
+    'user_id' => 933,
+  ),
+)  
+[2018-01-13 21:40:02] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'ea6m3iDCi9g:APA91bFEl42nnK7eo3-2qPLZxLphd2MVwhNhuJUlNNUBV1Jj5IDT7ei9uPo34-qR79oGsfxnsuIMtaZ0Xw1nQ3o5wgB4fodZWuUYE_Otc-SD2ip4tYYk4pF4w-yRD2CI6UdNSQNRU7yV',
+    'user_id' => 934,
+  ),
+)  
+[2018-01-13 21:41:52] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '00aba96278d7dd0c10d39fecb59d103949b258dc9871d5f7083c9205195ed966',
+    'user_id' => 935,
+  ),
+)  
+[2018-01-13 22:18:33] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 563,
+)  
+[2018-01-13 23:03:07] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '1c10d628e05cf247a0b3b1e9478bc8dce2cd92ac0181642f18661e0f80c618fa',
+    'user_id' => 937,
+  ),
+)  

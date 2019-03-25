@@ -1,0 +1,13 @@
+[2018-01-04 00:00:07] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-04 00:00:07] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 53EF7A46-4504-8BDE-819C-AB505E56EBD0
+
+',
+    'status_code' => 200,
+  ),
+)  

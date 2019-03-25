@@ -1,0 +1,50 @@
+[2018-09-12 07:30:17] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'dfiMFOlp1Ls:APA91bHBoRyN3SdpROvtWkwKmZXM8kToQeBjtu1rihph7L1CvrvSFzDQoHfifwWxjqFbHaqQN9Z4aWnwUJRvOiHu7irRQ-e6Xbo-4yAX58b9GrY0sqw-dD8GFJtCFAs516GYdpHZYGS2',
+    'device' => 'android',
+    'user_id' => 1852,
+  ),
+)  
+[2018-09-12 07:36:43] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'dfiMFOlp1Ls:APA91bHBoRyN3SdpROvtWkwKmZXM8kToQeBjtu1rihph7L1CvrvSFzDQoHfifwWxjqFbHaqQN9Z4aWnwUJRvOiHu7irRQ-e6Xbo-4yAX58b9GrY0sqw-dD8GFJtCFAs516GYdpHZYGS2',
+    'device' => 'android',
+    'user_id' => 1852,
+  ),
+)  
+[2018-09-12 07:37:07] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'dfiMFOlp1Ls:APA91bHBoRyN3SdpROvtWkwKmZXM8kToQeBjtu1rihph7L1CvrvSFzDQoHfifwWxjqFbHaqQN9Z4aWnwUJRvOiHu7irRQ-e6Xbo-4yAX58b9GrY0sqw-dD8GFJtCFAs516GYdpHZYGS2',
+    'device' => 'android',
+    'user_id' => 1852,
+  ),
+)  
+[2018-09-12 10:33:37] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 27848 User ID: 1854}',
+)  
+[2018-09-12 10:33:37] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Marriot",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-09-12 10:33:38] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1854}',
+)  
+[2018-09-12 10:33:38] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1854}',
+)  
+[2018-09-12 10:38:38] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1854}',
+)  
+[2018-09-12 15:58:39] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '3f323bd3393d2e7e3c81551a845ed9d61c1daac64d3e38b39b6d9c66342849e1',
+    'user_id' => 1855,
+  ),
+)  

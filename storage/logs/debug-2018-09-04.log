@@ -1,0 +1,16 @@
+[2018-09-04 11:41:24] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '1966b3632ff54b57a70d745786e3dcfaaa1650d5fed2881e7572204443eab0b6',
+    'user_id' => 1842,
+  ),
+)  
+[2018-09-04 19:01:04] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '0a0aa6e22d16102753a39c2ff8afcff4f0f10ec290f1029145e2075242518de2',
+    'user_id' => 1843,
+  ),
+)  

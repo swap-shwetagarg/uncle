@@ -1,0 +1,43 @@
+[2018-03-13 11:43:56] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '4c1a9a48460f5456c47e320578636c30e45011610d5c5ad91a595cb5ffc37b00',
+    'user_id' => 1318,
+  ),
+)  
+[2018-03-13 15:22:03] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 912,
+)  
+[2018-03-13 17:10:15] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 919,
+)  
+[2018-03-13 20:30:43] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fzr1Kl3e73o:APA91bEzajMUYSeMSq1hD0Phl-i8PLj8NINGwXaj4h7kT9zWKOtjdpLYT0hchxXZbj5cz7TWP6nuk3P84NhHgDqgA4PsX42hBuF9smI-yq6Wy4FXS02yWvjsmzXGW-BTpWOkkE1FP0QL',
+    'user_id' => 1319,
+  ),
+)  
+[2018-03-13 20:56:10] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 918,
+)  
+[2018-03-13 20:56:29] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 920,
+)  
+[2018-03-13 23:04:35] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 45428 User ID: 654}',
+)  
+[2018-03-13 23:04:36] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Bilal Husseini",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-03-13 23:04:36] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 654}',
+)  
+[2018-03-13 23:04:36] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 654}',
+)  

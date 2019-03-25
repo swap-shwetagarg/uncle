@@ -1,0 +1,32 @@
+[2018-01-06 00:00:05] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-06 00:00:05] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4708186414637952860,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515196805624550%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-06 00:00:05] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-06 00:00:05] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-06 00:00:06] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: D85E0C12-C5B0-4269-BE25-287EDC5DCBE9
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-06 00:00:06] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: D85E0C12-C5B0-4269-BE25-287EDC5DCBE9
+
+',
+    'status_code' => 200,
+  ),
+)  

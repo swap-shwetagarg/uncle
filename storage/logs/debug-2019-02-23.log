@@ -1,0 +1,9 @@
+[2019-02-23 06:50:35] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`unclefitter_msdb2`.`bookings`, CONSTRAINT `bookings_user_id_foreign` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) (SQL: delete from `users` where `id` = 2195)',
+)  
+[2019-02-23 09:53:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-02-23 09:53:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7020417935313755249,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1550915589494967%5f25f726f9fd7ecd"}]}',
+)  

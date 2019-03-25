@@ -1,0 +1,47 @@
+[2018-10-16 07:14:47] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '72c2152f36835cec83834831150ca1c1ae1eeb0243f3dde65a8e0cdd172d47bb',
+    'user_id' => 1915,
+  ),
+)  
+[2018-10-16 16:42:07] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 58594 User ID: 1916}',
+)  
+[2018-10-16 16:42:08] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Ringier Ghana",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-10-16 16:42:09] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1916}',
+)  
+[2018-10-16 16:42:09] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1916}',
+)  
+[2018-10-16 21:00:21] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'caKNLCOGAVo:APA91bGg6aMuruStR1acZ1rr0v7715Io1Gc3f2GHl-ogaAAwhQx3Hd1E1iyQc9UVzRjMsuo08mWxNmmVnLLqCT9c686PhOk_TaE2RIFbEiA1zczVDSbhcLDFof4OLe4K3rp6I_nOGXRJfyClcp2JCKss1GGoXc_JvQ',
+    'user_id' => 1917,
+  ),
+)  
+[2018-10-16 21:31:35] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'eLDdLWCX4is:APA91bEzb0irqFkH1F8kBzGWlZ6a6WXhVDR424H-RrE_REyA_R4G-yc8UxJJqADJDVIrxOMZKkHE3sOYWwfvF3FIZe6K-sStIFmZHt0CEpgpogOOJfdCPI5CVnM291jtP3PJ5MMbprzM',
+    'device' => 'android',
+    'user_id' => 1918,
+  ),
+)  
+[2018-10-16 21:33:25] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eg_5PD2FtD4:APA91bHH2dJIIxLvOAG5Kc4sAUqjmLDanmu--wxxEPXQHfhPu2AL7-MGBdXq1JsO21YjT8SzoD_Ckm9YeqKUA9aRTjHbiizZ0kul4a-yelMB2b0Ffx67Ep46QObqSsNTWqJ_6kFQsEXa',
+    'user_id' => 1919,
+  ),
+)  

@@ -1,0 +1,11 @@
+[2018-11-21 20:43:38] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'f770zMion0Q:APA91bEnfq5pWeDmA7GpaL8nLm4hHL3jb1y4YFYrAWUDLk-9oUOCMpRl4gpVHox2nL2PsH44FPKrCj6MZgCFkTjARPgF-BIJcC-2-TgFI1XzYOTIzY8Apfk4mRiyth_hDlh1aEZjg8_1',
+    'user_id' => 1964,
+  ),
+)  
+[2018-11-21 20:53:10] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1959}',
+)  

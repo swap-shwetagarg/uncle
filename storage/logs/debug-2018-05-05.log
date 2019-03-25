@@ -1,0 +1,22 @@
+[2018-05-05 09:08:32] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 625}',
+)  
+[2018-05-05 11:18:34] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 625}',
+)  
+[2018-05-05 14:38:37] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '6231c107bac357cade4feee4d3930f2a6a5b8726c7e3830f0302eb620b13cbed',
+    'user_id' => 1491,
+  ),
+)  
+[2018-05-05 21:49:16] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '761afcd4db8be6907bf356a0100d517c54c818a2a31ea9f9d2d25b5e6e9466bd',
+    'user_id' => 1492,
+  ),
+)  

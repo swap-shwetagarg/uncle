@@ -1,0 +1,71 @@
+[2018-04-24 05:53:49] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'db4fjzO9RCM:APA91bE0E8vfpcOZ9Een-0g3bjVgdvbLoXKfy8dxq-Y_ZYr5uoqjeSFWK27sTuNfguobg4cLkiOAL3lTqDkbT4IImfpAO3xjlH7yq7fy_vfyANCFdDEY4UgrcVFIjQzq5BBpQLu54Qe7',
+    'user_id' => 1454,
+  ),
+)  
+[2018-04-24 08:35:34] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'e7c5887b7d8371238e591af866376eaa49d8d252bc19d1ece0d995a54dd3f68e',
+    'user_id' => 1455,
+  ),
+)  
+[2018-04-24 09:14:53] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cksoqDeNGgE:APA91bFthuW5RK6hDO7vZPUcTt_EzCsnzTe1ZO-LVF65MzhpBBZiM_jhbCm5HzgaHfOl_duyh1Dp6GDpBErJwrV8H3uWoLYMb1sgS2jBqectF_mkiBOuKBP6Bc_BkMFP7q3-XPbruiSY',
+    'user_id' => 1456,
+  ),
+)  
+[2018-04-24 10:03:42] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '721d6b687d257b17f010e7f0e5bfc135fbd3c73f8e7a10ed8b9907e8698b2c3e',
+    'user_id' => 1457,
+  ),
+)  
+[2018-04-24 10:32:48] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'dpG0Crj1_sg:APA91bEruuvoik6jF3emsQ2tkFnmGx_Wx6S4lCcZrhBvp3prjj8w6IJcKTpU__tDMCCoyKdRZdbmeJ9ORwK764QFrMPuTX3zx3LLOaEvE6cQGxEFvHGduay4gMjZkGhsgO6FXIzuyAs1',
+    'device' => 'android',
+    'user_id' => 1458,
+  ),
+)  
+[2018-04-24 11:34:44] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 12391 User ID: 1459}',
+)  
+[2018-04-24 11:34:45] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Matilda Awumey",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-04-24 11:34:46] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1459}',
+)  
+[2018-04-24 11:34:46] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1459}',
+)  
+[2018-04-24 12:45:58] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '4113e5197a5e371280310955b48997988cf31b83a7eebca26ce6c0b46e1baf05',
+    'user_id' => 1460,
+  ),
+)  
+[2018-04-24 18:09:20] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dsgVT_mwL2M:APA91bGXeiV27-VwvKMsrAvfVgW32pLvqYbmIjt837_hqdaHtpFJm0zUhQl2gRA4-cNKOifsPsYND7LIGZ1cYfz6JWrH3cgfnauGQ2xS1H5FQM65ixD240CC1QQzQQRwadkO8qoOkyCg',
+    'user_id' => 410,
+  ),
+)  

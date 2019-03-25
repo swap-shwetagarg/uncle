@@ -1,0 +1,71 @@
+[2018-03-14 07:57:35] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cGZysM6JjdU:APA91bF_tRLDhvcnlv2lhY-JGWUYiLW0_d4lKo8H_Om9hmT0l5vM8qpmwh0xkJ9FPpnbDq0YM3SRkmQKAKzg7eR0TG2eDS_S1gttzx_ir7O42C1F2r5XP_-aubA0yskLvmJhNCQqwbpi',
+    'user_id' => 1320,
+  ),
+)  
+[2018-03-14 09:38:09] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 921,
+)  
+[2018-03-14 09:41:11] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dFKhul3r61Y:APA91bGW_-IJFms2v-IdeLdj-BFsb0TXjGr2wzZhSDeWOJ3oqn2lHF_PK-SJ-3tmv0Wb9lmamcQ2MB6giafK3E_EwJv983X-5plb5gMhosE1SNElIrwq5WJbupDiGkyi0G2KHcmsEJ2S',
+    'user_id' => 1321,
+  ),
+)  
+[2018-03-14 10:15:12] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'elwfY21kSvc:APA91bEWItu1qt4ishylqPxRtlQ_BKzDc-44mNjoBL95t4MgF7v2iIzu87AnGD7RzEbpMDg4MoiSMkSUe-LrpFqfEJPpuxFkxgHwTWD5cZwYtQvv4tcQZ3lY-A8984cwhGt83tMYPoKb',
+    'user_id' => 1322,
+  ),
+)  
+[2018-03-14 11:37:58] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 924,
+)  
+[2018-03-14 12:32:38] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cPUOqNZtlo4:APA91bGQmmfUgfNYN0tmTS2GGOnWEj1-ZDYds72wBrNzn-Bwdwoyueg_aTx2jxzYD3-w_VM3gQu1noQzGM2abrXSvYRn4vI_hHz_xSbC-omEQXPU7O60DqkKuj_JXwDbE6gOwEJlhz7Y',
+    'user_id' => 4,
+  ),
+)  
+[2018-03-14 13:20:21] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eSKr1sfhLUM:APA91bEgJ4DKof8L2aShfQq4ahVWMGxUnmrEVr7IvgVvCKbAM8PCUA11eSZmn-etEZdTdY_Z7gEVtU0ug_myESDjxJ_16IgE62Bx1KZDr7N885Probo11FXUiWdM_3xW8lyb-rLnKKvz',
+    'user_id' => 1323,
+  ),
+)  
+[2018-03-14 13:24:47] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 925,
+)  
+[2018-03-14 13:25:30] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 922,
+)  
+[2018-03-14 17:47:51] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '09543f6fe63694b2c1841780de11873e664c4015874f5f97834ae246a9900572',
+    'user_id' => 899,
+  ),
+)  
+[2018-03-14 19:39:55] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'e45063e53789c35c92b038227f4612e65d7622d940161d3a91c1a57867a5d7e8',
+    'user_id' => 1324,
+  ),
+)  
+[2018-03-14 19:50:48] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 926,
+)  

@@ -1,0 +1,27 @@
+[2018-12-10 10:35:50] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eo63wbwmdEQ:APA91bHjqo2EhG37ns9oFAMN2psFw0VQwd3bbQo6xmC6FKeQauBVKfDv-0Xe96KqCeMo0vCTVSLN7JknmdG9d-PVRRVPC1Ok2rS3GHjD3XntEAc82EdGfzcAVjbieq6KGNMvY_hH-mky',
+    'user_id' => 2060,
+  ),
+)  
+[2018-12-10 13:31:41] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`unclefitter_msdb2`.`bookings`, CONSTRAINT `bookings_user_id_foreign` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) (SQL: delete from `users` where `id` = 1983)',
+)  
+[2018-12-10 20:49:22] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'd7WjqDf-nZg:APA91bFYd8WJ1dR3qKKejm_6Ora31HiQ4x3LAFHrqB1bXkuWCT-UWI1msF3MWZ6b3ltrg6lNUA3wIPOjEDbbWgZ2UxfjN_B19kjM3IN8_33R3Puvl-xhWxuiDT3fyK6u92axuPwxwKfH',
+    'device' => 'android',
+    'user_id' => 911,
+  ),
+)  
+[2018-12-10 22:26:44] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'dXJz-Ydyv9k:APA91bGCpqW3-m5D2EW8R4AHuBbH4LsF-Lb47fQ7_X0fR5dHv_WmYE_RYaf2H_hhzQymVXtyCdFj-UZkofZbFxQv5zIijg0_ThPD7vgFCeCYhoa6ApzdQOTS3uS4M50V08NSNA3pg607',
+    'device' => 'android',
+    'user_id' => 2061,
+  ),
+)  

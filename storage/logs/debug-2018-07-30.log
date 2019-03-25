@@ -1,0 +1,56 @@
+[2018-07-30 14:15:44] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'dXXdkhwPQfc:APA91bFjinpQRyK5byPO9ji5YR_e3MZr1ZTabb-V1fMKA_AQA9huZZwXmonSshvMu8NmF-m_W9hWmYwzL4FG29IXj2z02pi0wvYbIkN5jasfij_-sfuWcb_0pavx7UoyerPvrKrNk40xZj3boad9LUXtM8X0atdukw',
+    'device' => 'android',
+    'user_id' => 1762,
+  ),
+)  
+[2018-07-30 14:19:54] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '50a6f4680bb5d22ef001a78ba9e39889fa19caf9fc14ea3988ea982cd3ac1b17',
+    'user_id' => 1763,
+  ),
+)  
+[2018-07-30 16:13:57] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '23197df01a6877379ab5ce736d4d330e51179a5e6607e6a5bb4df914cf0b2a4f',
+    'user_id' => 1488,
+  ),
+)  
+[2018-07-30 17:10:46] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'ffxgFbFFFAg:APA91bFDVd4aRXB7u0IvAZtKyhR_uRjjBBZMxi6YY7OyOSxWV5v6pomqr5GC-gx2NI2incldHMfqEvhiXtkfzlPHIa1QlYb_OHO87ZEJA0C47VerzdPNsS-Ht66WPs4HpVtL6YOjPjlko4E5UfbG7XCrLoLWGsHiOg',
+    'device' => 'android',
+    'user_id' => 1765,
+  ),
+)  
+[2018-07-30 17:30:53] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '42eab0265b3a599d9d8545eaa7a11b696ffec2f741aa5030ea71a67516145f6a',
+    'user_id' => 1766,
+  ),
+)  
+[2018-07-30 17:50:14] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cJjzT0M1FtI:APA91bHchNbOQj8z4WVT5DMofV1ciiW-TtyjSonsCPt38XnLT3v8bDIynz7zKUlKF7o0b_QhwjVWCNx80z3bHBUonpOliXjziTVHB2uCtRLkNXbLm1Rc9YT0GL0XjnoTDhwmAYVvSzO0tyhLjQIzm9piZDCl07VHCg',
+    'user_id' => 1767,
+  ),
+)  
+[2018-07-30 21:45:56] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dc02vsK0iGQ:APA91bHdXAH6Maor89ucre1_Wj80E8_HMSNb62mcrZy-MSyl2zlVasxyXPiNUcgGoaQUv7R-XNF8c7254VZQgziR1IMdO9EcHBhMzeonyLNd1acqzOtgO0hbrD_kwS4s2kYQG3dogygHEzPFrDOwjR8WuPeGA0imQA',
+    'user_id' => 1768,
+  ),
+)  

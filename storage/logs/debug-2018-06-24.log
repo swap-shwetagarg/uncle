@@ -1,0 +1,95 @@
+[2018-06-24 08:11:23] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'djjtIQJ6gx0:APA91bEmTJ60LQm07jZKfs75rYqBYqVdQD4h_9N9PJonz3ng3NbRmrMaP3NgLu1HMaXdOOJRJTcltddirEUWA-oiB74Cq4miCdFjD_D7M-ZImHGFPUDDhlIu-DPJ8G-bDz93B1UNaEu7qNaWiwjVgDJpXqgFuuv7Bg',
+    'user_id' => 1643,
+  ),
+)  
+[2018-06-24 09:11:13] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eypKfafYjRA:APA91bFDcqgGhi10CuuVNARGn_TyEoh8qdKOCpWlTkD8kHdFD5yfjSZohrCcw1NUQO1tqoKLl9xlrjS64xedTENoqrkqU2F7MhjZQbq5ePxvUoe_lI3rAB-Y-qXKh5uweq9GG1f715S1KrIEjHx9ZyLYR0wxrYqw_Q',
+    'user_id' => 1644,
+  ),
+)  
+[2018-06-24 10:36:50] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'e5d1c99b8c37ca89016fdefe25b65664e77cbb75908b0099de9710f4e946e705',
+    'user_id' => 1645,
+  ),
+)  
+[2018-06-24 11:24:13] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '50c0b9d10b791f18256072350e8e5ce5cd6a98b6952d308a01ca4e28df55c112',
+    'user_id' => 1646,
+  ),
+)  
+[2018-06-24 14:36:50] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 33516 User ID: 1647}',
+)  
+[2018-06-24 14:36:51] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Isaac Addo",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-06-24 14:36:52] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1647}',
+)  
+[2018-06-24 14:36:52] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1647}',
+)  
+[2018-06-24 14:47:13] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'e150cbeaa8a101d976b5967929704481eaebfc7142d82e2e716c87b19742c07d',
+    'user_id' => 1648,
+  ),
+)  
+[2018-06-24 15:43:53] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cSIKumWki6E:APA91bFsAuZzcQ0BX7QnmiaKOQ2BkUydNyqVBawtv8dEFRIdDHIhdHPa6u6gAYFzc80QbxSRHb8jsKkkuI5I4GQ2UBvhBeCc6fERs4A1oMqMGNBSRZvakQLrrLdrJTVSoYcGBfGQaDoGX8A0gxjAXBHr6I1UC0q6mQ',
+    'user_id' => 1649,
+  ),
+)  
+[2018-06-24 15:54:38] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dC1RDR0rqF8:APA91bGbNrX5doAkLLBC1WU8KZdhzgCVCRsPdICm21JA-2lRe5a52huMhnuIOTD9nt3OcNAxpWVIQKLa9cu4ecXx2cw1-yY_iNmdOf-GO4d2MbEQOV1YZJmGLAYhAAJpC0ggQjFvMWFWqSVlJ1eppZlUAHzLMyyZCg',
+    'user_id' => 637,
+  ),
+)  
+[2018-06-24 16:48:27] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '24d36cc9ca6768a08c03d176170625a27bf20f2731f37c816b06843d61a1ed53',
+    'user_id' => 1650,
+  ),
+)  
+[2018-06-24 18:35:18] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'e7b2ff3f8f762d61698ca952072206db962b2e62ae04b1a853ad5eb6dd18907d',
+    'user_id' => 1651,
+  ),
+)  
+[2018-06-24 19:22:29] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '829690e4c64e334649f6b79ce1b69818566611b669ada5b4c3c61e76d6ed22a0',
+    'user_id' => 1652,
+  ),
+)  

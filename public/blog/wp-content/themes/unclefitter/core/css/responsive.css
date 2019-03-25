@@ -1,0 +1,152 @@
+/* =Responsive (Mobile) Design
+-------------------------------------------------------------- */
+
+@media screen and (max-width: 1199px) {
+
+.center-wr {
+    margin: 0 auto;
+    width: 97%;
+}
+.get-help img {
+    left: 18em;
+}
+.grid-sizer, .grid-item {
+    width: 22%;
+}
+.menu a{
+	font-size: 14px;
+	padding: 5px;
+}
+#logo {
+    width: 200px;
+}
+.share-provider.flat.square.size-16.horizontal ~ #os-share-more {
+    left: -152px;
+    position: absolute;
+    top: 50px;
+}
+}
+
+@media screen and (max-width: 988px){
+	.grid-sizer, .grid-item {
+    width: 21.8%;
+  }
+}
+@media screen and (max-width: 979px){
+	.grid-sizer, .grid-item {
+    width: 29%;
+  }
+  .get-help img {
+    bottom: 10px;
+    left: 20%;
+}
+.blog-single-content-sec {
+    float: none;
+    margin: auto;
+    width: 90%;
+}
+.blog-sidebar {
+    float: none;
+    margin: auto;
+    width: 312px;
+}
+.comment-form-url > input{
+    width: 96.5%;
+}
+}
+@media screen and (max-width: 767px){
+	.grid-sizer, .grid-item {
+    width: 37%;
+  }
+.ft-bottom-left, .ft-bottom-right, .copyright, .socialicon {
+    float: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+}
+.ft-bottom-right p, .ft-bottom-left p {
+    font-size: 15px;
+}
+.socialicon {
+    text-align: center;
+}
+.main-nav{
+	display: none;
+}
+.navbar-inverse .main-nav{
+	display: block;
+}
+.navbar-inverse .navbar-toggle {
+    display: block;
+}
+}
+@media screen and (max-width: 649px){
+.grid-sizer, .grid-item, .blogsection-wrap:nth-child(4n) {
+    display: block !important;
+    float: none;
+    left: unset !important;
+    margin: auto auto 30px;
+    position: static !important;
+    width: 274px;
+}
+}
+@media screen and (max-width: 480px){
+.how-to-help h1 {
+    font-size: 29px;
+}
+.how-to-help p {
+    font-size: 19px;
+    line-height: 26.2px;
+    padding: 0 5px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+.get-help img {
+    bottom: 10px;
+    left: 4%;
+    padding-bottom: 20px;
+}
+.blog-sidebar {
+    width: 270px;
+}
+.singlpost-admin-date-bar span {
+    font-size: 12px;
+    margin-right: 3px;
+}
+.singlpost-admin-date-bar span i {
+    font-size: 14px;
+}
+.blog-sidebar #widgets ul li a {
+    font-size: 13px;
+    line-height: 18px;
+}
+.page-head h1 {
+    font-size: 13px;
+}
+.page-head a {
+    font-size: 13px;
+}
+.get-help a{
+	font-size: 15px;
+}
+.letest-articles h1{
+	font-size: 15px;
+	 margin-left: -138px;
+}
+#os-share-more, #os-share-even-more, .osshare_imagepoup{
+	padding: 10px;
+}
+.comment-form-url > input {
+    width: 94.5%;
+}
+}
+@media screen and (max-width: 375px){
+.comment-form-url > input {
+    width: 92.5%;
+}
+}
+@media screen and (max-width: 320px){
+.comment-form-url > input {
+    width: 91.5%;
+}
+}

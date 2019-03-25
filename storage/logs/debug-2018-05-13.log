@@ -1,0 +1,120 @@
+[2018-05-13 07:40:31] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'c3b340bff0a8c2929353e19c22a94ab38c772b1d8e219ee89705b310a90a4340',
+    'user_id' => 1517,
+  ),
+)  
+[2018-05-13 08:23:56] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dCulr5fWWJg:APA91bF8825K3tmifFhw5axglxies69WPDhWxineFd3QYZNmC-0l0LVaeBF3rdL7r-yvoudy_0_BC6eXbx6mBuynzaNgUu5mfozPWRdebKRbZCJkCzZORpwubXdpHVkjYtgA0rRqo2IQ',
+    'user_id' => 1518,
+  ),
+)  
+[2018-05-13 08:47:03] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'fvRUfc-W6Hg:APA91bEhk_Ap0G400GaUzkmRaTStraM5R83e_NKeTCN-V3252HnQ955PiH9_ktDMpDSHImgRGQ2kqcLEKVn6wSO9yuSSxm2xIgbQHP50yBcMvAFnHLFmbdVM0IYFqh5l75PdE_uhM2-z',
+    'device' => 'android',
+    'user_id' => 1519,
+  ),
+)  
+[2018-05-13 11:28:19] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'c_uDnKpmFq8:APA91bFU_kaAwm17HmBniy__dMMDYQZ11iDExDNmr0rHB9gDBoO26ZOgKxz4u0ezVnjXyXyPP6l1vuqgkzX-dHfhDMy4VYhGPq31lbOodqtnc7WM2X3Qc2pPH_-tvRDc2lu7BlA8crbD',
+    'user_id' => 1523,
+  ),
+)  
+[2018-05-13 12:07:17] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '67698fcbc93715a279236db18aaa2b2eeaa446880962e6739bacd5651fc45c94',
+    'user_id' => 415,
+  ),
+)  
+[2018-05-13 12:40:22] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'enZbplvAPoY:APA91bH5YiST2wM-rYi7eKIbPvibPOs8ff5tr8qplIUNqeGdii0lxeqnHX4_iXAyTuk4ShTfi2VlHZ9h6rGUNEkpmk25MXAkEqN9F9Tgzh0tDsb4iCnyYGiM_n2Va2-XDSEG8AOH5hqT',
+    'user_id' => 1524,
+  ),
+)  
+[2018-05-13 12:46:48] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '4f9df061a61c4a73806c10bee9998933c4bc3762222f7bead67ca192e6e9590c',
+    'user_id' => 1525,
+  ),
+)  
+[2018-05-13 14:35:27] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'a244b0fb082445bf82c6f563ab1b30eb51d2223428bc761c987a30d4eba37c0b',
+    'user_id' => 1522,
+  ),
+)  
+[2018-05-13 21:17:17] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'ff8yE6yBVTA:APA91bEUeRIGA2k9hhyLVo6KI5pU9UrW0nq4EHvsJUn1j9cJVSkYuBBrVpbBLeR8r8PMxfblCw5qVDddwq7OSpd5RYtElPLpQYS1_FggvJVVoqce6e0eRsHMWQS6oTPzXcVyIlLmtjzr',
+    'user_id' => 1526,
+  ),
+)  
+[2018-05-13 21:18:29] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cyGcHpQdn-M:APA91bGLEdFeNSUNWb00o-94CmbkSiR_SKOKkALtuNg5GThv4aO4Xyk502cuTqu8Ij2vmEJ507JJaa3MXeDFseWe6LrXYSGRLggESIYcJyRXkHZjtVrGQDANl5LkdzlxLdSyX3bl72U9',
+    'user_id' => 1527,
+  ),
+)  
+[2018-05-13 21:46:52] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dk_3Yl-Nd5c:APA91bFNalExLU-uAh2vyo0NaH8Exf1FrOnHdB3MEDRilZz3NkOToq4CfIwmL66TyRWhnfgWfKF4xj9YH2dMg_HORwSgjK1Es4I-8u4IDFBsIOSzqRvoCw9MPnchz2QAJ63Q_HUh6TEM',
+    'user_id' => 1528,
+  ),
+)  
+[2018-05-13 21:59:00] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '0010d665e3771257c8e804dcdaf55b6d7088fccecf8f5669214dbd593e85afe0',
+    'user_id' => 1529,
+  ),
+)  
+[2018-05-13 22:07:16] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cGyUi8L-Pm4:APA91bGQodJD7NIF435WX2vNAOG_Pu30VibXKtjcg_Awxklf-FH4lVT9liwBVN3JTQMMapEVAsWTVp6EjA6gcUP1-tBKdi_OpXLzTd7Xz2QxnDoSzELtEAnMqNIykZKyuigwMicbyzhd',
+    'user_id' => 1530,
+  ),
+)  
+[2018-05-13 23:25:38] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '24581adc536c40a6ea5231a35ac364d84eb0dbf93ae9bc29213947119d09663c',
+    'user_id' => 1531,
+  ),
+)  
+[2018-05-13 23:44:50] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'b1e1b4fb9a77460233969ec4720a9f0b75db3b54941d04cd741f6b95e2fe7f70',
+    'user_id' => 1532,
+  ),
+)  

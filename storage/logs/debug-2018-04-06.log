@@ -1,0 +1,27 @@
+[2018-04-06 06:47:52] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cFmQOPjA8LM:APA91bHErYanvDU-rSDUo7usQRlN2PPGJ4HCcK8vRiJqG2ACvEuAkGcLdh0W5x_brmAMByf5kWdINEZTjN7Pe1ANu9bUmJ_GteAApPdyd951imufrgNNfpwMqLnLx3Pc731jynP0g6Sf',
+    'user_id' => 1373,
+  ),
+)  
+[2018-04-06 09:21:49] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'c2eZBr1AGnA:APA91bEyoTtB7Y4-ZxUKsuHbEuv_rpi8IOAmSiGvvafkNMD7jgoKPEdOqna875mYcahYMDOkbMIKDPtdM35DvaINOB4Xqi3CRNrV_zQPW69i82-8715JNK268-TkM5lRnN2nfvShYX-k',
+    'user_id' => 1374,
+  ),
+)  
+[2018-04-06 09:43:03] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dbfV2onU51k:APA91bEn_zo0iRH5zlqQw4fwBAfwyQJ58poiFhpYk013MXZaKrtvEnTGAvPbNDazMnhB0Qf8UUH4kUmxgmFNAEaHkoOFkb_POddV6rivN6-TF95T-JkOvcCJbYpJPedf5EoOLhJjYceC',
+    'user_id' => 1375,
+  ),
+)  
+[2018-04-06 21:46:24] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry \'878-984-940\' for key \'no_duplicate_rating\' (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (, 5.0,5.0,5.0,5.0, 5.0, 984, 878, 940))',
+)  

@@ -1,0 +1,17 @@
+[2018-06-19 10:27:29] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`unclefitter_msdb2`.`providers`, CONSTRAINT `fk_providers_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) (SQL: delete from `users` where `id` = 1578)',
+)  
+[2018-06-19 10:27:34] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`unclefitter_msdb2`.`providers`, CONSTRAINT `fk_providers_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) (SQL: delete from `users` where `id` = 1578)',
+)  
+[2018-06-19 10:28:08] production.ERROR: array (
+  'Request' => 'No query results for model [App\\User] 1524',
+)  
+[2018-06-19 17:57:36] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'd83346eec8547428ba0d1207d987ee36dbc93d431697345d99a30533c7f5708b',
+    'user_id' => 1631,
+  ),
+)  

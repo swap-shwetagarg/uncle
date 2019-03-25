@@ -1,0 +1,12 @@
+[2018-12-29 07:59:06] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-29 07:59:06] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6265651795564087347,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1546070346871631%5f25f726f9fd7ecd"}]}',
+)  
+[2018-12-29 09:29:25] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-29 09:29:25] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7970343124106165358,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1546075765483364%5f25f726f9fd7ecd"}]}',
+)  

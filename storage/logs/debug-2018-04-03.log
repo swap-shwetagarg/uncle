@@ -1,0 +1,8 @@
+[2018-04-03 17:51:41] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '286691000c3cace7164bee2c36bb46d77be448f76f43d3bed9e1bf5317bcaa27',
+    'user_id' => 1367,
+  ),
+)  

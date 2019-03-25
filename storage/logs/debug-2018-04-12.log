@@ -1,0 +1,11 @@
+[2018-04-12 10:10:42] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'c7et8YD5Gfg:APA91bHXcLUDSGmHkzeFOSTnTW1kojZwQ9gf3wYVow1J0bB42G_VOTZ_GkjYa6-B8jU8FsHq--xUbXeFNNOT04kOVpA-9xnlk0P7IH63ncXTkJg7WUI9M959xv6Yg7Mx0IVEoY8aLPYC',
+    'user_id' => 1381,
+  ),
+)  
+[2018-04-12 21:36:23] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1349}',
+)  

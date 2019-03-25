@@ -1,0 +1,168 @@
+[2018-12-01 07:49:27] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'd8fDzzNHNKs:APA91bETu25vomiXWgj-krZnzTp8sVbO72Dv8njuELWaJSCqAbrFEtXIp4PpOJjeYdQSLU5N-Sja9YBuYZP7TRuGupIrFv5a0J0niuvLz0yE5Bzw47Fn4rQibMA1lqX75SmZclvOTSLO',
+    'user_id' => 1975,
+  ),
+)  
+[2018-12-01 08:49:47] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'cVvhw1Cvb9Q:APA91bFXD2EYQ2wTWaAK5h1SQ2e4ZhBVyx1LnsOLZx0TP4AcAu6cldDgTjxQFcKXW-6zaEqoYsG0JaRrJmWj4FcSECfr4P8LKCVVMu1rAvd3D3UYoBR6x9DZPiptaUcZljq5y6rNbODE',
+    'device' => 'android',
+    'user_id' => 1976,
+  ),
+)  
+[2018-12-01 08:55:00] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'f1172abf76cc4c083f32cf588f848bf63527a36c0688b08a4f1e0579fde51ec4',
+    'user_id' => 1977,
+  ),
+)  
+[2018-12-01 09:16:06] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'fiQWe16bnyc:APA91bGw6tkxbd7envMQyxv2UJozfqT8KqFG9-Bxr7BtJ8mTeH0fH-fj2lemM52wtbag4AFnpznrwtmWmJfH14vUoS1XpQlkJR2a_MM_d058QF5o6iz1EOJ6d6QEJKLPF9sy-j8KIQFv',
+    'device' => 'android',
+    'user_id' => 1978,
+  ),
+)  
+[2018-12-01 09:40:23] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '9c4f475a7727bf4330539afd4c22af23a67629a89892bd60de3654183649fb10',
+    'user_id' => 1979,
+  ),
+)  
+[2018-12-01 10:32:44] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'eaI2A4eHMSA:APA91bF8R63ZX4QwiYEdijwunMypCqCOT1yNilYux9WYSExLM3cMiCRJuD4NgFuVEgGmS0i28NA60hpiCLDDhB6rAaJUXtsQJTg7n8iJYi1qYpOu4kk4HyS_-6W-eT3maSZPLqKEWy4V',
+    'device' => 'android',
+    'user_id' => 1980,
+  ),
+)  
+[2018-12-01 11:50:00] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '9ca107d0509a1cc08da4a1a1a0d9eaad149155c7c62124ccf565778781f03458',
+    'user_id' => 1981,
+  ),
+)  
+[2018-12-01 11:50:06] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '5f34681dc0cd16dc6ce9b892a7e5b05ef119b54c88d32dcb32ffd425577006e5',
+    'user_id' => 1982,
+  ),
+)  
+[2018-12-01 12:07:47] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cFKLLz7u41g:APA91bFMFL6nACsca7B8-HUW7YHN_S1I7ddrCF9I_rN1xIcBMUKV3HMAZehcimoUDFMY5zaoqr_vmUlFEx2B_CnJgczQda3-BbfQBTjmxFlt28rayIU1E5iqdnUEc6L4DylTbtUaqccD',
+    'user_id' => 1983,
+  ),
+)  
+[2018-12-01 12:08:04] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'c-5dEmYTPcs:APA91bGFtJQ4OT1oW2i50DDF_Ph1PqdpRksB5hEvHgcNMuvteyfByWv3RXe3Wd30zCU11jQ3v22KNVxPhduAjH2tTTDdieO8xU2wFnPWglF7j-wErlhHlTZvRgeE_WUkv02vyabMn0Ys',
+    'user_id' => 1984,
+  ),
+)  
+[2018-12-01 13:29:31] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'ehmFj89XBXs:APA91bH7WdcgSq9UFuaonaOTofRq1VS7DFbQas-iB9Ph1AkhHiOvPuYkuwSkPcp2LMDP_Kifu16rk3xQaERd9ebIonV5vE2m9vXSGglfvWWFN6UM9Sh3HYhgxWoSDHJ7P5tEvKeLLdMG',
+    'user_id' => 1985,
+  ),
+)  
+[2018-12-01 13:35:08] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fscOJ9Obago:APA91bFm52Aax76qio4M-grgWB98a0BL6QO6jX7_SEv3y_PpxjGRnRVbT_53qsXCu0fkzsktzJHDqoKJ63wRejk6aAJOIdBifSXLy0dnIjSIPbD2GjHC91eWhXAb82V-RgU47jUjVUqm',
+    'user_id' => 777,
+  ),
+)  
+[2018-12-01 14:00:37] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'eohE1_UHLNY:APA91bHpxzjCII8ScvkDbzopgHO2JAJ-Wn-K0ROcFn2itNsdgd0hW9RrEiYQBVbUejCSJzBKqLhEB7mFTKAMVD6orWRFrvKTAetZ4DQhtfvy9JAmEIHMVZGs16X4Fx9H4Skb3aaGZ0SJ',
+    'device' => 'android',
+    'user_id' => 1986,
+  ),
+)  
+[2018-12-01 14:01:56] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '1cc3d590150ea231a6437dfa903c24346e616b70545686fba26d25462c575064',
+    'user_id' => 1987,
+  ),
+)  
+[2018-12-01 15:10:05] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'cY7Ray8d3gA:APA91bFhZj13Ein3tmwIeZwi-Epv96YQCBni1hLQM_zdKQ5Mh45cmFBFN_sDtPR_KKfiYXr6SIQeCBVAufSQr3hw0msJfaly7sMucuu9l4pA4YUVRiyUUXVlPSbJdmqBmg20eLiCr1dr',
+    'device' => 'android',
+    'user_id' => 1988,
+  ),
+)  
+[2018-12-01 15:26:52] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dK6wFFDMCA8:APA91bG8LWxTZu5x8dT0Ijhwd4-HlSbvfDgCJxN_4lpxUHWX4EN8cphp9G02bfMrw54VuE-D7BAUlrvcuk716ARiLb3XtOXqs8yQ8VVT0wJWrJt8vq1zW1gKC4lZNqju8AyXrCp_Yf8a',
+    'user_id' => 1989,
+  ),
+)  
+[2018-12-01 15:29:22] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fVU9DS4VDDw:APA91bFqAtpLsGhBgRBIvThGwqNtLy1mGM4Em-xWftqAkL7Cr7E0fSXUZyLJP6JGEAtRbBPFE6b1hFCOCrjLhnQ9xEHx-bAe4B74KBVt9keomRusqLbXsMtXvtQypfHSfmKgeBSUNAy3',
+    'user_id' => 1990,
+  ),
+)  
+[2018-12-01 15:36:13] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fgkkOK7mCVo:APA91bGMDIvxbWs0ukruVvHjJVjMqAF_u0Ypps6kr5jQda1zbMHIs3N1dLD3hDxmCSXEY8AJMHT0KMurZ3ZNBjLLac90Vx65KC4nu6FFO5ovFWcgZUUhOhflrLlnFoa7ShTXluCbth-b',
+    'user_id' => 1991,
+  ),
+)  
+[2018-12-01 16:13:54] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '06fa2f2e663e5bef461c713a565450dfceb239d33caaa1250cfe40f06227a2d2',
+    'user_id' => 1992,
+  ),
+)  
+[2018-12-01 20:18:42] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'ef-NmjC1LqE:APA91bE8P48A06mC_aBRiQAcK1BcJ9E3VunxJSi82NlrDP-VpiQHyvUexqqcylYTuzmZu9ETaSQJ187946RvZj5BPFGObOr9EYRSQUjBWLRXXgpPDgRiDiljuI_jfJZEtNFaq2uMd9kh',
+    'device' => 'android',
+    'user_id' => 1993,
+  ),
+)  
+[2018-12-01 22:46:19] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eBx1UFJbh0I:APA91bFqMsJxdnqayhctQkXpQzC4xSiYer9cQgWTvBQwko-mznZHynYyenxNgD5ref-N2bmRdv61ziXm4IXJPMhcGvHUoti5ViZCekwoUTJdxoRdblrRxcJDQrV_SVrChBpERTQ0n9mi',
+    'user_id' => 1995,
+  ),
+)  

@@ -1,0 +1,84 @@
+[2018-12-26 07:16:19] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fVxuMtCuvRQ:APA91bEW7wkAOgSWaPeQDw3zHXxpp-_l55Olobi4PbNfcI0EPDlps2S2-HrUWwYEBwh4DxU9qS3z8aeUxOySF3qcC2ppAmyYFDDRz6wVgrinkSwng-Txj3mmVRg4ebQTCul0hC1k-oDN',
+    'user_id' => 2085,
+  ),
+)  
+[2018-12-26 15:30:17] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '847100fcf1cd54c7c2be95a8ded8c6e00bb48506e933a1995b5fe7d04c584999',
+    'user_id' => 2086,
+  ),
+)  
+[2018-12-26 19:26:25] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 19:26:25] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4710427761565882233,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1545852385493761%5f25f726f9fd7ecd"}]}',
+)  
+[2018-12-26 19:26:25] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 19:26:25] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 19:26:25] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6266945847655770938,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1545852385568668%5f25f72685120eb2"}]}',
+)  
+[2018-12-26 19:26:25] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6266945847655770938,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1545852385568668%5f25f72685120eb2"}]}',
+)  
+[2018-12-26 19:51:46] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 19:51:46] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 19:51:46] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 19:51:46] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 19:51:46] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7617403520633557052,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1545853906234567%3bf400aaf9fd7ecd"}]}',
+)  
+[2018-12-26 19:51:46] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7617403520633557052,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1545853906234567%3bf400aaf9fd7ecd"}]}',
+)  
+[2018-12-26 19:51:46] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7617403520633557052,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1545853906234567%3bf400aaf9fd7ecd"}]}',
+)  
+[2018-12-26 19:51:46] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7617403520633557052,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1545853906234567%3bf400aaf9fd7ecd"}]}',
+)  
+[2018-12-26 21:07:40] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cYOJaNGQDLQ:APA91bHVXVf7SiaG8EAWQCo9uwyP2OgRwapYS8JG3SKpMIqxg4L0HBHJg4I3XP8zlU6nY4VfrQ9RVyLVXzYv9Ij_4E1mDvw8ujbg4jMiaLRWM9kaZjjNci91tz45xdQz-tDTmfUefQRh',
+    'user_id' => 594,
+  ),
+)  
+[2018-12-26 21:55:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 21:55:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5587970919706269188,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2018-12-26 21:55:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 21:55:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-12-26 21:55:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4805790474184611238,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1545861330686442%5f25f726f9fd7ecd"}]}',
+)  
+[2018-12-26 21:55:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4805790474184611238,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1545861330686442%5f25f726f9fd7ecd"}]}',
+)  

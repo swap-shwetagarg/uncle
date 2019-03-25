@@ -1,0 +1,32 @@
+[2018-10-28 11:13:07] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '3e1bd0e79a40df1d062a506b01327233077af259226ab2c1423f97455e2728df',
+    'user_id' => 1940,
+  ),
+)  
+[2018-10-28 14:18:12] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'b78fc9e5749050ccc8f9f404a71f81cc181d6ff0bc2456a0adbcbd638ddd6659',
+    'user_id' => 21,
+  ),
+)  
+[2018-10-28 15:29:53] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'e6af6310a4b3cd9bd8a0e1f8d258ea32e992be6a2486f427b4ce5f5b0ca59195',
+    'user_id' => 1941,
+  ),
+)  
+[2018-10-28 19:11:52] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'eDNEMIhQnUs:APA91bGrmmvjqKujUW6q2jA6gpj9Ecar_eF8tPU3iRBArML_7Lf9l_TzfF9uXjMIkSJvoMeyydZ0kEtorLGpxXdAgcQLed0XOCzGU33JrI8yztCbcXbxGIiha8qssJ_D9TTjjnyHDTS7',
+    'device' => 'android',
+    'user_id' => 1942,
+  ),
+)  

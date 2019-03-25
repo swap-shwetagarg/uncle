@@ -1,0 +1,47 @@
+[2018-06-14 07:16:57] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dS6P658u43s:APA91bFUFtzlyUTnFYjbGjWXQmBh59J6uMR67TXreS0BMiiqABxRfRo0dkkbHxfpUjzPi36RS704K3YJyreFpbYFccuNuol4wMd1jMXEGkJT3diICrNLfFkJ7Dx5Db7quH8fWkuswFDo',
+    'user_id' => 1616,
+  ),
+)  
+[2018-06-14 16:07:37] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '4a126b2957860284eb97ae11c189371c2483c5a4dc60bf0488a3a8c53b09c3b2',
+    'user_id' => 415,
+  ),
+)  
+[2018-06-14 16:20:25] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 46038 User ID: 1355}',
+)  
+[2018-06-14 16:20:26] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "nana addai",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-06-14 16:20:27] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1355}',
+)  
+[2018-06-14 16:20:27] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1355}',
+)  
+[2018-06-14 17:23:34] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'c5edbJcxUVs:APA91bGXFlT6wzM8bxjhe7AwTSf7RSWCDs8oh5t_jvwjUBBYz5x4mIIDv7eGILjdvfQzNS6UPTl4dcpMvbFYdAvSCzPD2pcqt0Aw108eP0_iZrk1AnYE-O9FzIz0sPumGhkZAChvZNtX',
+    'user_id' => 214,
+  ),
+)  
+[2018-06-14 22:01:49] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cxdAGqBfsjE:APA91bHzzXAisRqQASpsY8liVCnmIlNffbypKfplkRNAPhrOOGK1UBhXLvHVQ54zpPG2Q5-w2IDj-WYoZXdsDvsd9cG2NWhq20ldDUZHS1BKdestfhxStRh-mbPhDsxxmwjyEZh0jYVW',
+    'user_id' => 731,
+  ),
+)  

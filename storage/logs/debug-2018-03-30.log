@@ -1,0 +1,19 @@
+[2018-03-30 07:07:15] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '26542c76f74e97dbf858029a79703f63692ea4c5bc13144b111c3662d1637d55',
+    'user_id' => 1213,
+  ),
+)  
+[2018-03-30 09:39:39] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 965,
+)  
+[2018-03-30 13:12:53] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'f5a772ba9219aaf6f0df1d01adb50c049a97165bee1cad18f8ff3e8f59a6ed7c',
+    'user_id' => 1127,
+  ),
+)  

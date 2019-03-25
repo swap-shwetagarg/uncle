@@ -1,0 +1,11 @@
+[2018-02-06 16:03:31] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 675,
+)  
+[2018-02-06 17:50:34] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '2233415131eb34b386784d00909679690283ce9262d010c9fdc56d2cad2cc339',
+    'user_id' => 1078,
+  ),
+)  

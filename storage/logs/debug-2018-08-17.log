@@ -1,0 +1,50 @@
+[2018-08-17 00:01:56] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '77f6ca9ddff388719a2a81247e3a418566aedbb79602610e6ddc26f4f2555652',
+    'user_id' => 1532,
+  ),
+)  
+[2018-08-17 09:10:37] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'c2xPOWX483M:APA91bFdw-egzdh3lryorYheHRO78-i9ma6wG5HfxipfzqtHb9m7cUJiCN2vpyLlgGKWCSrU7bXDX3gN-azw1xE_ZiqwwEOI6EEc7RyEOdoCm7QZ3kP1foOshVc-7ADj25anoWWnGAf4',
+    'device' => 'android',
+    'user_id' => 1568,
+  ),
+)  
+[2018-08-17 15:01:51] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1202}',
+)  
+[2018-08-17 15:22:21] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '5b234d5c9fe22798340288b43e446a05ea83d97f05cb724cf226dcfeabd7c1d8',
+    'user_id' => 1548,
+  ),
+)  
+[2018-08-17 15:34:49] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 30160 User ID: 1806}',
+)  
+[2018-08-17 15:34:51] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Hammond Nkansah",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-08-17 15:34:52] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1806}',
+)  
+[2018-08-17 15:34:52] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1806}',
+)  
+[2018-08-17 22:09:34] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'ffd90bea396e66a175dbf086156de43d2723f26a9c74a3145eb45345007e102e',
+    'user_id' => 1807,
+  ),
+)  

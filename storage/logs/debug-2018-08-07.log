@@ -1,0 +1,54 @@
+[2018-08-07 07:18:53] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dXA6fQKExTI:APA91bESWEctMgwJnPbNSx3EDfDeBe-mefy_5IwIhSftL5bIsaM9UWCEnbHNkSZ2fNer6HqhfScDz7PZIyKN8DlAbx_Cpa1e6yO9e7jd8O-V_6Py467HIUK98uxIIJ1aYkedG2oe91pOizbGHGhxVM1PWaXkV6SBOw',
+    'user_id' => 1784,
+  ),
+)  
+[2018-08-07 12:00:20] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 60793 User ID: 1785}',
+)  
+[2018-08-07 12:00:21] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "carl miller",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-08-07 12:00:22] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1785}',
+)  
+[2018-08-07 12:00:22] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1785}',
+)  
+[2018-08-07 13:31:31] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 39505 User ID: 1786}',
+)  
+[2018-08-07 13:31:32] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "FunmilolaAdeleye Adeleye",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-08-07 13:31:33] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1786}',
+)  
+[2018-08-07 13:31:33] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1786}',
+)  
+[2018-08-07 15:48:36] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fvRu1ES57WE:APA91bGXT13xd3ivbKT6Vs_CHTF1d3tfj9B1KOUf4vT7T9TmcciXapCQ9zobhxRoLQHhVSSSazdhbY1y_binnrn4zT80JVg4opL3Bt-QTaeswWV7yrPI3odzfmi8T0SZsxYAslHEzrpLtXm-Gtmns-i0zLkQjos_CQ',
+    'user_id' => 1787,
+  ),
+)  
+[2018-08-07 17:11:05] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fjTUMjVP43M:APA91bG_HzPMzQtJQrQgVdrlJ0w45IK6LWjuOOykF8AwtR7y-c8lSb6YNxzGl1uDgHBxYYqI23JR5p5zEsTM0-8WDDTCRlFhceu8zHnjYNhCuAA7tviTjnv6F-AlRhBf-ayZDb2E8ib3idKFzY6d4o_k71HW2BlnDg',
+    'user_id' => 1788,
+  ),
+)  

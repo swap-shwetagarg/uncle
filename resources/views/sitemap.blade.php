@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://www.unclefitter.com/</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/login</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/register</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/request-a-quote</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/customer-terms-and-conditions</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/limited-warranty</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/privacy-policy</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/trademark-usage-policy</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/password/reset</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/become/mechanic</loc>
+</url>
+<url>
+  <loc>https://www.unclefitter.com/reset-quotation</loc>
+</url>
+</urlset>

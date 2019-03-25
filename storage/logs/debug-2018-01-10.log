@@ -1,0 +1,75 @@
+[2018-01-10 08:19:22] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '23381b4d151a20d030750797ce5c41da4bf1ab5fc85c7516744cfa04dc8ba613',
+    'user_id' => 922,
+  ),
+)  
+[2018-01-10 10:35:24] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-10 10:35:24] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 410 
+apns-id: F56312E7-E3F4-9900-010E-04B6B0659239
+
+{"reason":"Unregistered","timestamp":1515385663650}',
+    'status_code' => 410,
+  ),
+)  
+[2018-01-10 10:35:24] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-10 10:35:24] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-10 10:35:24] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7530281260865298536,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515580524853043%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-10 10:35:24] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7530281260865298536,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1515580524853043%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-10 16:16:49] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 60706 User ID: 923}',
+)  
+[2018-01-10 16:16:50] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Wisdom Amuzu",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-01-10 16:16:51] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 923}',
+)  
+[2018-01-10 16:16:51] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 923}',
+)  
+[2018-01-10 16:24:02] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 554,
+)  
+[2018-01-10 16:49:19] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dhnh_pLu--4:APA91bH5PSllPfSQHHVPyhlk0jfZts6iEKsCyEcQtBFzOCQwdXbk9qHv1r0pv_Czn2wb7loXzx0ks-3iv7KBvX03zTyXH-NXiKQ1MlW7dBEZD-_3i4ZOYCqwCp3TkRG9tuqc5iffAYJ6',
+    'user_id' => 823,
+  ),
+)  
+[2018-01-10 17:39:21] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fIo8sTSwN5g:APA91bHiY1cTf_25R9d-AXoQaGVMn-AIb7x47HqzFTUd9Ksx4yteYzJCPRs26POfyr6zz951jmybYj5rOVqVAC7oZYyZQklRhq4OVdS5vMF9J89nyVRP-IB5gCKaNyf69F7nyxvTWrFz',
+    'user_id' => 924,
+  ),
+)  
+[2018-01-10 22:13:09] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'f1260b9f08db9e1b529f71409eff5cfc88185bfb072c598da82c7114ba1dc615',
+    'user_id' => 925,
+  ),
+)  

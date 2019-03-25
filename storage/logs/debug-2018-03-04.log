@@ -1,0 +1,44 @@
+[2018-03-04 07:36:32] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'f-xwAOPI5DM:APA91bFtoZFvFispyhMEM6ec6S2Dpy-th7S57CL20ThScXD7z-9V6jefYWxMhjXB2dF30V4CnGnwAMPWZufV_BPGkt61I3AAcmxPktP1EmTn39O-Bf6sMiMZt3CysV5rbCgTshu9aY7j',
+    'user_id' => 1297,
+  ),
+)  
+[2018-03-04 08:54:40] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 864,
+)  
+[2018-03-04 09:04:31] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'chs7tmf6QHQ:APA91bGdvnd9a15SA1MnpCGxUg5DfQ8TrfRIMwRIz3uU2RnQD2ySpuZw5p240vJ131Gp0smxLFynHV4VFa5FdLnx3e6O_mHI2GBhk09uJnJ_2Qgx2gu8nXI6xAgbjbitSiA3IpDfFaoP',
+    'user_id' => 1298,
+  ),
+)  
+[2018-03-04 14:37:53] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 866,
+)  
+[2018-03-04 15:43:14] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 867,
+)  
+[2018-03-04 17:37:13] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'b83c73e811688db712c6a3ccade858996af3b9743efe8321b998da1b76495560',
+    'user_id' => 1299,
+  ),
+)  
+[2018-03-04 20:41:17] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'coB68e5ixNU:APA91bEZOMAIiZsuoxrbv_s68zJBd7OZBp0OyrQeCOmp_Qlz0jW-XEnpb0IsIdL4r7t6mSN2tsIDasjtOQ4a-0GWKgCBAHVjhIcGTIR85zKKOk2M4Z_tZqr0zJqMhDuWPrhtdohK3hll',
+    'user_id' => 1300,
+  ),
+)  
+[2018-03-04 20:43:53] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry \'878-861-172\' for key \'no_duplicate_rating\' (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (, 5,5,4,5, 5, 861, 878, 172))',
+)  

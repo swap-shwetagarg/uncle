@@ -1,0 +1,56 @@
+[2018-08-14 09:24:06] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eGp7a6FxoFM:APA91bHTHuOSkf0sJHf4X8ArY3ZApTFSRD_5Z6B7VeV7Htqnui9Jim9eqjRsKhFauWyCvk74QtMGLsbeDkU7a-PUxDfSxLIZcnmDwybTCgxD36MYosW-VFvsME1QlAs7Z91ewHb--LUj',
+    'user_id' => 1798,
+  ),
+)  
+[2018-08-14 09:25:02] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'fzrARZlfI_s:APA91bHDbE01AUM7gSpiifhpm-Ti0g169AC8cdqV4MCYsilg_kveUgn4psH0ePvrwnp91UY2FBefTmgKowgpgn0Ci5HFZP-xe9WEKwamw0nGDjK8w3oYxP9nIT0o8_KuMAl53c63PzsZTfoFfMA4NgtyFzzQI0AydA',
+    'device' => 'android',
+    'user_id' => 1798,
+  ),
+)  
+[2018-08-14 10:01:25] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fNkb9oTeM1Q:APA91bHR0YCia--kN8b2q_Xvh3e9N5w0JK_FS1oqSGq85qZNWjyoWovp00GKsmsIIoHVkqZubzLXApiJI7cxNcWF4DL3CnLEVxMIADLjD8_B37EGaoEJMEVCQBdHrQ0HpLMapn-J_ghAqmXMbCVly4KsFaP35OUlSQ',
+    'user_id' => 1799,
+  ),
+)  
+[2018-08-14 10:56:01] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '30b0bb64420a1d68dfbb36e26e27bd01efbbed2e89d109d06259f62f83f25b2d',
+    'user_id' => 1800,
+  ),
+)  
+[2018-08-14 14:29:14] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'b26aa90bfce9803451468936ad26c4d049eff76477788b7cd1d595119431c116',
+    'user_id' => 1801,
+  ),
+)  
+[2018-08-14 15:59:43] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fQDi0GG-iRM:APA91bFT5DBOi1hTLIxz60BD0EnRh1vSdHrHdobzzwUDPrrm3WtwMSn20CYm0ZAFqxfGbGL918YK_D9wzMgvL46DSQ7XAMW7BPWPI9QrdMI-elT2ZwWUdjsp4VztXKfXyq0Uh6MK3qtqfVqfMOxRr8ZS7fLRa3T-nQ',
+    'user_id' => 1802,
+  ),
+)  
+[2018-08-14 20:33:08] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eo1jN1_CY-Y:APA91bH7uFK1xjNhypNGx610pJSf2gSs-NHIFbo2Z3eTY87nR5NqwwtVbRg_NY2oRNDJP4WzQmpOl8c6MbCwj1MRlPOeopoldfgmCQCWEoAmo4dLVSc4VQqWwBBLp1_DMiObfJ0U3NRHQJRwlKpWM5G_HgTwT2TDCA',
+    'user_id' => 1803,
+  ),
+)  

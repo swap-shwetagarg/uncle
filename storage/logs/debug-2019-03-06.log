@@ -1,0 +1,45 @@
+[2019-03-06 08:17:41] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-03-06 08:17:41] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6026192586371479532,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1551860261692989%5f25f726f9fd7ecd"}]}',
+)  
+[2019-03-06 13:50:14] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'f8vxdN8rx-w:APA91bF-PxIZKXx_ga3tHlhOr5BZLQic-2Wqn35mr79-y0M4u3MymX2Jxa6c5yNgC1EgzQb1dm-FSrbIA2DnRIwwhKWcz3pi3MjD0-m0JLHUmm-cRzGXzVmdF2DqRS2kj-CKbjpWB0wk',
+    'user_id' => 2281,
+  ),
+)  
+[2019-03-06 13:59:23] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 61661 User ID: 2269}',
+)  
+[2019-03-06 13:59:24] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Sharon",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2019-03-06 13:59:25] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 2269}',
+)  
+[2019-03-06 13:59:25] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 2269}',
+)  
+[2019-03-06 14:42:07] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'cJ9lxIqc2Gs:APA91bF66pOc5jAUCioTThym39sEPGvX8rrdpBs21Am-UinzpUjfptD5r0R-cqA1Ae7tiXNa195NuocqK94tqZSP86s0NlgjpHcVYS0pdAzRvzUCSCfe2lx509AUwtxFw96YCILIdBm3',
+    'device' => 'android',
+    'user_id' => 2280,
+  ),
+)  
+[2019-03-06 21:22:13] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'c4t_MmIixPA:APA91bEZD7X2QYoedgf2HdBL82J9AJ_0ICA-Glnyz42EKu5ZL-nQXR76RtnKZf1WJkx-nY4brcMwUxiORZ--GHhaSfE29nJRCp2anQKE-RzC0owJjrL_YLLGVZaG6XqH6IPJzej8TUrn',
+    'device' => 'android',
+    'user_id' => 1930,
+  ),
+)  

@@ -1,0 +1,22 @@
+[2018-02-09 15:33:21] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 681,
+)  
+[2018-02-09 16:37:54] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 682,
+)  
+[2018-02-09 20:30:46] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fZbqHIWN_nQ:APA91bFa8MenwULo-HgftGHYyJ6wYF6wRvxwA1Fzv9XsiQz8643aEAcFrO73zAQl9isihOCcbDiasRcatCG5e41XH4L1diNLrsIpr9IUwCeYyMbTPR2tsdM5zWoSAkq4UPCSFG_fUGY4',
+    'user_id' => 1010,
+  ),
+)  
+[2018-02-09 20:57:16] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '9bef735be3b08a0de1e6450425071a36574d7412a98580fe3044c338f67382a5',
+    'user_id' => 731,
+  ),
+)  

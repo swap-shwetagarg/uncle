@@ -1,0 +1,8 @@
+[2018-09-16 11:49:41] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'e0YmBwhYp-I:APA91bF1KoMSP4_mt6cBVGq-_8rUTAkM9rGu7Gx7DMjIC2SoHs7G7uBtcAj2xfDSabJWXfjTiF4G_mdTnsDeOaet1VtLUmiRhslE4jL8xv0kvu71FDXX97fJU5yrzZYRn1lzRTspW7bS',
+    'user_id' => 1858,
+  ),
+)  

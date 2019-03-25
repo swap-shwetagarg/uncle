@@ -1,0 +1,24 @@
+[2018-08-18 08:42:04] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '1dc0255cf8117e85a71345f7114b1fa1d39e17de92c614e953417ccb97f46c04',
+    'user_id' => 1807,
+  ),
+)  
+[2018-08-18 12:20:38] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'ftUMVEyo9dY:APA91bGnFO6F14q1yG1I3UyJvc1tSG-QnFvV8GXNTrWNqkfFX2a0LmuR1Rev89ndzXGe9MALgxJyEX5MnBkj2lXyByaFSN5uL_IeNZ4eQJAxSQ8D35Xovp8UKaO7PZDo7RPt9jYvlcWmctY-5IbFukFceNKUXuGXcw',
+    'user_id' => 1808,
+  ),
+)  
+[2018-08-18 16:37:41] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'dAS1TKs2ZJM:APA91bGjB9bYhwVvEIpxjqxta7drF8MsFPNl7Z4_PrLYLYvhvqqLR3GpUd8BCqvqbXrO3HvjvAtHCGc4FIV-cqaCqAUHwDa2i_0y6F9683IqX_2iXSVZhcGXtbadCl9xdTrerpQVwoYQdMaZg03fk2B48FMK20oRVw',
+    'device' => 'android',
+    'user_id' => 1809,
+  ),
+)  

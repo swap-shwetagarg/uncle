@@ -1,0 +1,51 @@
+[2018-05-25 10:49:51] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fNw-S1yJNgc:APA91bHVUIzfyCqbYxoghP16A0l2vN2wCKfSyVOmf5FYWFH-Unv2UpCD8uMKb7IkMRFaHJVJpbEqUmJPZNPxNUaY5HuWKOMm1OxlVXRd_i4RavCKgdk6M2tJStFhk61p0lSmU9xCP1qb',
+    'user_id' => 1563,
+  ),
+)  
+[2018-05-25 11:08:29] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry \'60-534-860\' for key \'no_duplicate_rating\' (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (, 5.0,5.0,5.0,5.0, 5.0, 534, 60, 860))',
+)  
+[2018-05-25 14:02:51] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '91ef191d358a094e7e19027ebcbb10c6a4af23f6056396923b30827d5a03f7dc',
+    'user_id' => 1565,
+  ),
+)  
+[2018-05-25 15:22:02] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fkQOwM0wj_Y:APA91bHve4-DuSgbTApz39ORj8659FoN_Oyt27pjbM6zVZUfAMcooEalSpcOXKEx4Waj7aPIrKcYxOHWgQR3ONsFz97xXLhBXNyCG3Yari0BU8SiNlwGmKuc8UTSVipB5bbh-Ge7aQgc',
+    'user_id' => 1564,
+  ),
+)  
+[2018-05-25 18:47:44] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cgFVU6Gphxk:APA91bFFWM_VVl-XLqyVmsZiOlCjbka7WNgumTPT9wnK8ifaW5uBaNVmM9Uzo2pho3ypFWuLuwWC9HIsDO0hVC1rmlLl38lLrz7dKycQwpFUbF3uz99zFcUtiBWP8I7t6MlPYXqd_Txg',
+    'user_id' => 1566,
+  ),
+)  
+[2018-05-25 20:41:05] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'c2xPOWX483M:APA91bFdw-egzdh3lryorYheHRO78-i9ma6wG5HfxipfzqtHb9m7cUJiCN2vpyLlgGKWCSrU7bXDX3gN-azw1xE_ZiqwwEOI6EEc7RyEOdoCm7QZ3kP1foOshVc-7ADj25anoWWnGAf4',
+    'device' => 'android',
+    'user_id' => 1568,
+  ),
+)  
+[2018-05-25 22:40:35] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fqeGtkbGMpc:APA91bH8edXf_P63StdAjP6KnDrqheYwgeGcQKV1FJGvzB9o3f9RYMr8Iavv3VywY_Gga_yTSIm7FHBwU0RLwriBv93O7ukoTX91IAoqdGeGzjSDdTjCQSHSIQ2_46IpbWRzXSZ9-i7_',
+    'user_id' => 1569,
+  ),
+)  

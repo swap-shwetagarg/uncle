@@ -1,0 +1,1190 @@
+[2019-01-28 00:24:39] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'f_p2W7vfgnY:APA91bGZy3QGmLv5opaNRkNsZcvcOnKMilxpjnfujUItPiRakfYWOiEtbSix3Hg5XfYvW4wPdXEX7qFnOFKn5nSaQMZfXdB17XPlFWYFY6nKmHctUOyq4NU1m62ssdOxDl90u-bY0G79',
+    'device' => 'android',
+    'user_id' => 2172,
+  ),
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7255627081899751383,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548657450541167%5f25f726f9fd7ecd"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5511315683516474009,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5511315683516474009,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7981944031928722109,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7981944031928722109,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7981944031928722109,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8455829005983704730,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548657450672669%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8455829005983704730,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548657450672669%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8455829005983704730,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548657450672669%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8455829005983704730,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548657450672669%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6634184432082553235,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6634184432082553235,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6634184432082553235,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6634184432082553235,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6634184432082553235,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5313925121840529919,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5313925121840529919,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5313925121840529919,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5313925121840529919,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5313925121840529919,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5313925121840529919,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5232111723110232499,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5232111723110232499,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5232111723110232499,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5232111723110232499,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5232111723110232499,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5232111723110232499,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5232111723110232499,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5246740880257835701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5246740880257835701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5246740880257835701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5246740880257835701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5246740880257835701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5246740880257835701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5246740880257835701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5246740880257835701,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6886507248230413411,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6886507248230413411,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6886507248230413411,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6886507248230413411,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6886507248230413411,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6886507248230413411,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6886507248230413411,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6886507248230413411,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 06:37:30] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6886507248230413411,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 08:33:58] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dN60wLwCVRI:APA91bEXhsYhAEm7QWZXqfC4pamBr9kgMFo4QZJt4WUBSqiaEWWuymkKebX4wS3EHfg9iLGUYgPdm_4kV0r8Uf6yNymHLgWyeSbtH1vFsUe31w0AVl5Vwk2yQLcZTroAloQZNz6q06LK',
+    'user_id' => 2173,
+  ),
+)  
+[2019-01-28 08:37:58] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'a69284d4f901baa33fadab38e5fcf11935a66ae240db3d0f3579a43cbe6b2833',
+    'user_id' => 2174,
+  ),
+)  
+[2019-01-28 08:47:24] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'fZQdCXEoNX4:APA91bHU8027ZZ3B8b2MlWMJpcPEX_SQbjXwDYAnI21gIFpnrAW2DvogI1tl9JtzXMDBiYA1z8SC6-HF43rNFlLcRDn5nf_2fPwBr-iB89vegqWIxD98awQ7qdl8NS0ihLdtGq3E-8Vg',
+    'device' => 'android',
+    'user_id' => 2175,
+  ),
+)  
+[2019-01-28 09:04:04] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'f3fba91eb47236284461ce94dc051e19408f3cb2726c9b1383c8336fd50b0f4c',
+    'user_id' => 2005,
+  ),
+)  
+[2019-01-28 09:23:45] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '10cfd3cf7d5a5544390fed1fd7f8593ade7b0e05fde5d897ca3ea48cc2f6bbfd',
+    'user_id' => 2176,
+  ),
+)  
+[2019-01-28 09:49:40] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 09:49:40] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8985807502343575153,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548668980913466%5f25f726f9fd7ecd"}]}',
+)  
+[2019-01-28 11:48:42] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'dTWPAxUCwBo:APA91bGFZpI8CXAkSIhKzuJ8qc_bjFxlbV3i3aikCPBxgyZGPZgprJysKvvRSTuS4Sv8VKxyYGzz3zeETYPzYhFlqdD3-niSu-iZh2WfnvJ470pWq5Vt1lG1QbutwNUpALC3spujd1sj',
+    'device' => 'android',
+    'user_id' => 2177,
+  ),
+)  
+[2019-01-28 13:14:56] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'ftH3kNhy_bE:APA91bHt9aa_1pfJXBkKGZia2UPUfCPkHppnB_piVwTAx12Ch_25oTJYXkJ2WMXkY-Z9Vktf3yXjNajXVmddPN1WQ20GDn-MgA4KQMsqzOt6aQzSufaT8Dm-JXAGRYgX6EHiD2C38MqR',
+    'device' => 'android',
+    'user_id' => 2178,
+  ),
+)  
+[2019-01-28 13:22:31] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:22:31] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5823279745337467468,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548681751229299%5f25f726f9fd7ecd"}]}',
+)  
+[2019-01-28 13:30:21] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'f291428a62da3f24ab9a29b0c77afaf27ebabcd81cd02dcaa19b71614f3a0a1c',
+    'user_id' => 2179,
+  ),
+)  
+[2019-01-28 13:41:36] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:41:36] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7550062457835629072,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548682896043447%5f25f726f9fd7ecd"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7216254599039175245,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548682982702377%5f25f726f9fd7ecd"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8604068069501524688,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8604068069501524688,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8604068069501524688,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7774056110939745495,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7774056110939745495,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7774056110939745495,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7774056110939745495,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6728089429446914877,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548682982951563%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6728089429446914877,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548682982951563%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6728089429446914877,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548682982951563%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6728089429446914877,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548682982951563%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6728089429446914877,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548682982951563%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:02] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9189813324262646662,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9189813324262646662,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9189813324262646662,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9189813324262646662,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9189813324262646662,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":9189813324262646662,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8616178136977447168,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8616178136977447168,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8616178136977447168,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8616178136977447168,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8616178136977447168,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8616178136977447168,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8616178136977447168,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4698063973793563083,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4698063973793563083,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4698063973793563083,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4698063973793563083,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4698063973793563083,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4698063973793563083,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4698063973793563083,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4698063973793563083,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8335619554883366525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8335619554883366525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8335619554883366525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8335619554883366525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8335619554883366525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8335619554883366525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8335619554883366525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8335619554883366525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8335619554883366525,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:43:03] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8191112335156655513,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5564539111270789993,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6122702523598440728,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548683242684315%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6122702523598440728,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548683242684315%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6454575842661186080,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6454575842661186080,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6454575842661186080,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8804325349896271593,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548683242784506%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8804325349896271593,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548683242784506%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8804325349896271593,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548683242784506%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:47:22] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8804325349896271593,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548683242784506%3bf400aaf9fd7ecd"}]}',
+)  
+[2019-01-28 13:54:02] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'eg2ql037RbM:APA91bGaV88oWc8OPMBYkeOiJ75moP-4Zy9huncaXFA7vs-cI8qjfXJAJWVV__hnrTHS9litQg1eDWIgeNXWxWupcl_7Si4aYL_tP2i-2ob-flwYSnyK0mW6S918iLitLtoDABo_PbXL',
+    'device' => 'android',
+    'user_id' => 2180,
+  ),
+)  
+[2019-01-28 13:58:57] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 13:58:57] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":7339824619654750233,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548683937288674%5f25f726f9fd7ecd"}]}',
+)  
+[2019-01-28 14:18:22] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '770aaa49af0ff7bae4804fbf9f6cf93e78de4dd03d73c16c9c04bde04eeadd1d',
+    'user_id' => 2181,
+  ),
+)  
+[2019-01-28 14:54:54] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fdczCK8L_DM:APA91bEvdEeEJaPegl0yzQ05gR2x9XddnpI0Ixw3OrKKy-y831vkh3rMWXGF0NL0GV4ojAK5QRWNhVcU6TnyKNoAPPFuaIFojgnrxaMShcERSBOqZS8JNoz5rk6dnL1O0YHoYsYSJuUF',
+    'user_id' => 2182,
+  ),
+)  
+[2019-01-28 15:33:58] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '1ebd8de67abc755d2fa966bfef02bde2bcad9c7b7b9a94482f053bc97f78f2eb',
+    'user_id' => 2183,
+  ),
+)  
+[2019-01-28 16:45:46] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'eGUFD6b7v2M:APA91bF21z6PMmtXbNvRaJztUlc-dDPxaAeM3NmTYmggMIQLH2YdtIMsZRKZ235XbVcPTkOVYOA44ozS4Xg-sQyRt0My05QuI0pV7op1AIqx55F9hZo5iRi1qOqH-dKd3UZbCQ3azShj',
+    'device' => 'android',
+    'user_id' => 2184,
+  ),
+)  
+[2019-01-28 17:35:21] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'emkFQA4rjq0:APA91bEWvoP_qitRawpEb4TYmtxaatDehBCxlvDysjr7VK3G-WfgtJRNUlfApcjmJjHzZXkqBGK5wtuoDGYtc5io43-u2HClOZkBbCNvLqvmmQ9AZCI325Gv1bqmDfPXMecDpoNGsOPC',
+    'device' => 'android',
+    'user_id' => 2185,
+  ),
+)  
+[2019-01-28 17:59:14] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fulJVQ5sTqw:APA91bHP_viHuEyYKfMgv6eNfpJdPT-5RYnae1vmqeU4BCTKDwR0ughlkYjdlQ4lXSaI7txqifr9j_rKlAFk0LTtHWPoHmviENUcq7kxPUXZ5Fdf5IlJsnFykh5et9e5-Seb2BAtVViB',
+    'user_id' => 2186,
+  ),
+)  
+[2019-01-28 18:03:29] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 18:03:29] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8705948906322848066,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1548698609071825%5f25f726f9fd7ecd"}]}',
+)  
+[2019-01-28 19:41:54] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'ftH3kNhy_bE:APA91bHt9aa_1pfJXBkKGZia2UPUfCPkHppnB_piVwTAx12Ch_25oTJYXkJ2WMXkY-Z9Vktf3yXjNajXVmddPN1WQ20GDn-MgA4KQMsqzOt6aQzSufaT8Dm-JXAGRYgX6EHiD2C38MqR',
+    'device' => 'android',
+    'user_id' => 2178,
+  ),
+)  
+[2019-01-28 19:55:16] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 19:55:16] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":4953382643530594488,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 19:58:48] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2019-01-28 19:58:48] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":5515744934493062038,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}',
+)  
+[2019-01-28 20:02:14] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '07c922f4a43835081c8e0abaeb6b521e4ce3fd2bee63cc430d87d38a0dfb1d8a',
+    'user_id' => 2187,
+  ),
+)  
+[2019-01-28 20:05:07] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`unclefitter_msdb2`.`user_car`, CONSTRAINT `user_car_car_trim_id_foreign` FOREIGN KEY (`car_trim_id`) REFERENCES `car_trim_OLD` (`id`)) (SQL: insert into `user_car` (`car_trim_id`, `user_id`) values (69418, 2187))',
+)  
+[2019-01-28 20:05:07] production.ERROR: PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`unclefitter_msdb2`.`user_car`, CONSTRAINT `user_car_car_trim_id_foreign` FOREIGN KEY (`car_trim_id`) REFERENCES `car_trim_OLD` (`id`)) in /var/www/html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php:105
+Stack trace:
+#0 /var/www/html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php(105): PDOStatement->execute(NULL)
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(449): Doctrine\DBAL\Driver\PDOStatement->execute()
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(450): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `us...', Array)
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(2121): Illuminate\Database\Connection->insert('insert into `us...', Array)
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1251): Illuminate\Database\Query\Builder->insert(Array)
+#8 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1360): Illuminate\Database\Eloquent\Builder->__call('insert', Array)
+#9 /var/www/html/app/Repositories/UserCar/UserCarRepository.php(36): Illuminate\Database\Eloquent\Model->__call('insert', Array)
+#10 /var/www/html/app/Services/UserCarService.php(26): App\Repositories\UserCar\UserCarRepository->create(Array)
+#11 /var/www/html/app/Http/Controllers/Apis/UserCarController.php(80): App\Services\UserCarService->create(Array)
+#12 [internal function]: App\Http\Controllers\Apis\UserCarController->store(Object(App\Http\Requests\UserCarTrimRequest))
+#13 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#14 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('store', Array)
+#15 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(203): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\Apis\UserCarController), 'store')
+#16 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#17 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Routing\Route->run()
+#18 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#19 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /var/www/html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php(43): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#23 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Auth\Middleware\Authenticate->handle(Object(Illuminate\Http\Request), Object(Closure), 'api')
+#24 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#26 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\ThrottleRequests->handle(Object(Illuminate\Http\Request), Object(Closure), '60', '1')
+#27 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /var/www/html/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#29 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /var/www/html/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#32 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#35 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(576): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#36 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(535): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#37 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(513): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#38 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#39 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#40 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#41 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#42 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#43 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#44 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#47 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#50 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#51 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#52 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#53 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#54 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#55 /var/www/html/public/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#56 {main}
+
+Next Doctrine\DBAL\Driver\PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`unclefitter_msdb2`.`user_car`, CONSTRAINT `user_car_car_trim_id_foreign` FOREIGN KEY (`car_trim_id`) REFERENCES `car_trim_OLD` (`id`)) in /var/www/html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php:107
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(449): Doctrine\DBAL\Driver\PDOStatement->execute()
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(450): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `us...', Array)
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(2121): Illuminate\Database\Connection->insert('insert into `us...', Array)
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1251): Illuminate\Database\Query\Builder->insert(Array)
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1360): Illuminate\Database\Eloquent\Builder->__call('insert', Array)
+#8 /var/www/html/app/Repositories/UserCar/UserCarRepository.php(36): Illuminate\Database\Eloquent\Model->__call('insert', Array)
+#9 /var/www/html/app/Services/UserCarService.php(26): App\Repositories\UserCar\UserCarRepository->create(Array)
+#10 /var/www/html/app/Http/Controllers/Apis/UserCarController.php(80): App\Services\UserCarService->create(Array)
+#11 [internal function]: App\Http\Controllers\Apis\UserCarController->store(Object(App\Http\Requests\UserCarTrimRequest))
+#12 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#13 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('store', Array)
+#14 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(203): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\Apis\UserCarController), 'store')
+#15 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#16 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Routing\Route->run()
+#17 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#19 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /var/www/html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php(43): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#22 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Auth\Middleware\Authenticate->handle(Object(Illuminate\Http\Request), Object(Closure), 'api')
+#23 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#25 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\ThrottleRequests->handle(Object(Illuminate\Http\Request), Object(Closure), '60', '1')
+#26 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /var/www/html/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#28 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 /var/www/html/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#31 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#34 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(576): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#35 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(535): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#36 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(513): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#37 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#38 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#39 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#40 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#41 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#42 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#43 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#44 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#45 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#46 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#49 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#50 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#51 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#52 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#53 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#54 /var/www/html/public/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#55 {main}
+
+Next Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`unclefitter_msdb2`.`user_car`, CONSTRAINT `user_car_car_trim_id_foreign` FOREIGN KEY (`car_trim_id`) REFERENCES `car_trim_OLD` (`id`)) (SQL: insert into `user_car` (`car_trim_id`, `user_id`) values (69418, 2187)) in /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php:647
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(450): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `us...', Array)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(2121): Illuminate\Database\Connection->insert('insert into `us...', Array)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1251): Illuminate\Database\Query\Builder->insert(Array)
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1360): Illuminate\Database\Eloquent\Builder->__call('insert', Array)
+#6 /var/www/html/app/Repositories/UserCar/UserCarRepository.php(36): Illuminate\Database\Eloquent\Model->__call('insert', Array)
+#7 /var/www/html/app/Services/UserCarService.php(26): App\Repositories\UserCar\UserCarRepository->create(Array)
+#8 /var/www/html/app/Http/Controllers/Apis/UserCarController.php(80): App\Services\UserCarService->create(Array)
+#9 [internal function]: App\Http\Controllers\Apis\UserCarController->store(Object(App\Http\Requests\UserCarTrimRequest))
+#10 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#11 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('store', Array)
+#12 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(203): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\Apis\UserCarController), 'store')
+#13 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#14 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Routing\Route->run()
+#15 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#16 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#17 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#18 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /var/www/html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php(43): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Auth\Middleware\Authenticate->handle(Object(Illuminate\Http\Request), Object(Closure), 'api')
+#21 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#23 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\ThrottleRequests->handle(Object(Illuminate\Http\Request), Object(Closure), '60', '1')
+#24 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /var/www/html/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#26 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /var/www/html/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#29 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#32 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(576): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#33 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(535): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#34 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(513): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#35 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#36 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#37 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#38 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#41 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#42 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#43 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#44 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#47 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#50 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#51 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#52 /var/www/html/public/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#53 {main}  
+[2019-01-28 20:05:11] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`unclefitter_msdb2`.`user_car`, CONSTRAINT `user_car_car_trim_id_foreign` FOREIGN KEY (`car_trim_id`) REFERENCES `car_trim_OLD` (`id`)) (SQL: insert into `user_car` (`car_trim_id`, `user_id`) values (69418, 2187))',
+)  
+[2019-01-28 20:05:11] production.ERROR: PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`unclefitter_msdb2`.`user_car`, CONSTRAINT `user_car_car_trim_id_foreign` FOREIGN KEY (`car_trim_id`) REFERENCES `car_trim_OLD` (`id`)) in /var/www/html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php:105
+Stack trace:
+#0 /var/www/html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php(105): PDOStatement->execute(NULL)
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(449): Doctrine\DBAL\Driver\PDOStatement->execute()
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(450): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `us...', Array)
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(2121): Illuminate\Database\Connection->insert('insert into `us...', Array)
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1251): Illuminate\Database\Query\Builder->insert(Array)
+#8 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1360): Illuminate\Database\Eloquent\Builder->__call('insert', Array)
+#9 /var/www/html/app/Repositories/UserCar/UserCarRepository.php(36): Illuminate\Database\Eloquent\Model->__call('insert', Array)
+#10 /var/www/html/app/Services/UserCarService.php(26): App\Repositories\UserCar\UserCarRepository->create(Array)
+#11 /var/www/html/app/Http/Controllers/Apis/UserCarController.php(80): App\Services\UserCarService->create(Array)
+#12 [internal function]: App\Http\Controllers\Apis\UserCarController->store(Object(App\Http\Requests\UserCarTrimRequest))
+#13 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#14 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('store', Array)
+#15 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(203): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\Apis\UserCarController), 'store')
+#16 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#17 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Routing\Route->run()
+#18 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#19 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /var/www/html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php(43): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#23 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Auth\Middleware\Authenticate->handle(Object(Illuminate\Http\Request), Object(Closure), 'api')
+#24 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#26 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\ThrottleRequests->handle(Object(Illuminate\Http\Request), Object(Closure), '60', '1')
+#27 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /var/www/html/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#29 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /var/www/html/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#32 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#35 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(576): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#36 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(535): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#37 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(513): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#38 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#39 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#40 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#41 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#42 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#43 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#44 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#47 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#50 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#51 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#52 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#53 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#54 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#55 /var/www/html/public/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#56 {main}
+
+Next Doctrine\DBAL\Driver\PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`unclefitter_msdb2`.`user_car`, CONSTRAINT `user_car_car_trim_id_foreign` FOREIGN KEY (`car_trim_id`) REFERENCES `car_trim_OLD` (`id`)) in /var/www/html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php:107
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(449): Doctrine\DBAL\Driver\PDOStatement->execute()
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `us...', Array)
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(450): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `us...', Array)
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(2121): Illuminate\Database\Connection->insert('insert into `us...', Array)
+#6 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1251): Illuminate\Database\Query\Builder->insert(Array)
+#7 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1360): Illuminate\Database\Eloquent\Builder->__call('insert', Array)
+#8 /var/www/html/app/Repositories/UserCar/UserCarRepository.php(36): Illuminate\Database\Eloquent\Model->__call('insert', Array)
+#9 /var/www/html/app/Services/UserCarService.php(26): App\Repositories\UserCar\UserCarRepository->create(Array)
+#10 /var/www/html/app/Http/Controllers/Apis/UserCarController.php(80): App\Services\UserCarService->create(Array)
+#11 [internal function]: App\Http\Controllers\Apis\UserCarController->store(Object(App\Http\Requests\UserCarTrimRequest))
+#12 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#13 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('store', Array)
+#14 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(203): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\Apis\UserCarController), 'store')
+#15 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#16 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Routing\Route->run()
+#17 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#19 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#20 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#21 /var/www/html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php(43): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#22 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Auth\Middleware\Authenticate->handle(Object(Illuminate\Http\Request), Object(Closure), 'api')
+#23 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#25 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\ThrottleRequests->handle(Object(Illuminate\Http\Request), Object(Closure), '60', '1')
+#26 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 /var/www/html/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#28 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#29 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#30 /var/www/html/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#31 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#34 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(576): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#35 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(535): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#36 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(513): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#37 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#38 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#39 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#40 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#41 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#42 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#43 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#44 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#45 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#46 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#47 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#49 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#50 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#51 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#52 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#53 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#54 /var/www/html/public/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#55 {main}
+
+Next Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`unclefitter_msdb2`.`user_car`, CONSTRAINT `user_car_car_trim_id_foreign` FOREIGN KEY (`car_trim_id`) REFERENCES `car_trim_OLD` (`id`)) (SQL: insert into `user_car` (`car_trim_id`, `user_id`) values (69418, 2187)) in /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php:647
+Stack trace:
+#0 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `us...', Array, Object(Closure))
+#1 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(450): Illuminate\Database\Connection->run('insert into `us...', Array, Object(Closure))
+#2 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `us...', Array)
+#3 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(2121): Illuminate\Database\Connection->insert('insert into `us...', Array)
+#4 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1251): Illuminate\Database\Query\Builder->insert(Array)
+#5 /var/www/html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(1360): Illuminate\Database\Eloquent\Builder->__call('insert', Array)
+#6 /var/www/html/app/Repositories/UserCar/UserCarRepository.php(36): Illuminate\Database\Eloquent\Model->__call('insert', Array)
+#7 /var/www/html/app/Services/UserCarService.php(26): App\Repositories\UserCar\UserCarRepository->create(Array)
+#8 /var/www/html/app/Http/Controllers/Apis/UserCarController.php(80): App\Services\UserCarService->create(Array)
+#9 [internal function]: App\Http\Controllers\Apis\UserCarController->store(Object(App\Http\Requests\UserCarTrimRequest))
+#10 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#11 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('store', Array)
+#12 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(203): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\Apis\UserCarController), 'store')
+#13 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#14 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Routing\Route->run()
+#15 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#16 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#17 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#18 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /var/www/html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php(43): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Auth\Middleware\Authenticate->handle(Object(Illuminate\Http\Request), Object(Closure), 'api')
+#21 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#23 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\ThrottleRequests->handle(Object(Illuminate\Http\Request), Object(Closure), '60', '1')
+#24 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /var/www/html/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#26 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /var/www/html/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#29 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#32 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(576): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#33 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(535): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#34 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(513): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#35 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#36 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#37 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#38 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#41 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#42 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#43 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#44 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#47 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /var/www/html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /var/www/html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#50 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#51 /var/www/html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#52 /var/www/html/public/index.php(53): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#53 {main}  

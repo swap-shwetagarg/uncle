@@ -1,0 +1,302 @@
+[2018-02-26 01:17:50] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '55cae2747d3a64210880c3ebc4de7ee99304aa78a1c461d69c298e31045008c9',
+    'user_id' => 1212,
+  ),
+)  
+[2018-02-26 03:51:17] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '77fbf736b976a742bed8c3001facbb54ec4375adf3c91625da1a3fd2da466423',
+    'user_id' => 1213,
+  ),
+)  
+[2018-02-26 06:45:10] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'ftwYQhparxY:APA91bE9O4Ma9Ml426q_QkuHtieD5n_BKNka3BpQllXOOIHRsLajHFt7jfFP1NT3DN9S3Y-sWFuUJ5afSUQ02pZ4Aud0DhJ-B-C-IbnNcxKUavYPV5aW3EtqehGxdIYYvaIFogZ_i46J',
+    'user_id' => 1214,
+  ),
+)  
+[2018-02-26 08:39:13] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '98ea1e435eb5a3590517197dcd7a848c246ddebb0ac459cf5f1089a3d86aad6d',
+    'user_id' => 1215,
+  ),
+)  
+[2018-02-26 08:42:42] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cE9xNScJjmU:APA91bGTnd_qGd_GiWegl0x3uoMmeitfuFAqXmrYLvnRignzz2GdFQi-TATtETe6DMdUckm3oC3dt0QKAK0gagnWSiOmFVZI_98cE3-RXhEiGd76QV72tTBfYNDHBxYLKfx7fyYhf4u_',
+    'user_id' => 1216,
+  ),
+)  
+[2018-02-26 09:10:01] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'e3suNiuJW_8:APA91bHRgPBu27Ngcgx-eRl7bi36fQKARy8xh38cO-N1xTf_v_P3-tllzrzfx479tufJ1WUvlpN2RlsZcxD30FXwvBKUxrp9VDt2fIWPu_J21gRZ9te8mScyVC-D1SAaHc3t91O6GXBz',
+    'user_id' => 1218,
+  ),
+)  
+[2018-02-26 09:14:20] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 794,
+)  
+[2018-02-26 09:14:42] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 793,
+)  
+[2018-02-26 09:27:32] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'd8aec4351124ccb0957e6637875d72c80062103d8e2ec89d213cc8813fb19b37',
+    'user_id' => 48,
+  ),
+)  
+[2018-02-26 09:31:01] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eLUlAfYknOE:APA91bFcobxYSGtoyH5VZDxaG7q2UsyEKSJMLlGsl1MtFmR6l-UU1V9d1Ezd2H7qSfI1kW19bMLEV1blLWr-P4vNdxw-HgBqCS4PY5UCRPV21dVjW1O_bHRZQ63kIH7sFfAFeWFT6Esp',
+    'user_id' => 1219,
+  ),
+)  
+[2018-02-26 10:05:58] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'f573cf8692d711276c5b32b6559761223d1483d3e0cc91a1dd39f6ae4cb0629b',
+    'user_id' => 1220,
+  ),
+)  
+[2018-02-26 10:14:43] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 797,
+)  
+[2018-02-26 10:47:54] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 755,
+)  
+[2018-02-26 10:48:13] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 766,
+)  
+[2018-02-26 10:51:06] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 778,
+)  
+[2018-02-26 10:51:52] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 779,
+)  
+[2018-02-26 10:52:20] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '087bc65ece2082ab7e3d9d6bd1a26e3ba8ab734c21169a0160c100f54ec329e9',
+    'user_id' => 1221,
+  ),
+)  
+[2018-02-26 11:02:56] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 775,
+)  
+[2018-02-26 11:03:43] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 796,
+)  
+[2018-02-26 11:04:28] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 790,
+)  
+[2018-02-26 11:04:59] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 28497 User ID: 1222}',
+)  
+[2018-02-26 11:05:00] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Ransford Anane",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-02-26 11:05:01] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1222}',
+)  
+[2018-02-26 11:05:01] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1222}',
+)  
+[2018-02-26 11:05:40] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 798,
+)  
+[2018-02-26 11:14:19] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 784,
+)  
+[2018-02-26 11:23:56] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 776,
+)  
+[2018-02-26 11:36:13] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'c4c4cf16f6e91cd45d5565a4ab2eddb46dfde5543ab617b72329e614e280d529',
+    'user_id' => 1224,
+  ),
+)  
+[2018-02-26 11:49:42] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 799,
+)  
+[2018-02-26 11:59:08] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 775,
+)  
+[2018-02-26 12:02:06] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dc44IEJXyd0:APA91bFj0Tyf5XG1lmR9DeIsB0XZRiftq5vb4FIKUpW6muwJDUoiapgSJMtxohqn7ZCMCLyX4Dd47gl5Qi2fwMlIU9ri0xHvG2Oqk4o5HhlEaJjXKgg-9gvYxKNa27VqSk_NnYXAJBu-',
+    'user_id' => 1225,
+  ),
+)  
+[2018-02-26 12:02:33] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fYDo8Jd5sEA:APA91bGzgx-o2llEMV7IskMpb6PBKm7VNLvxig0LdimS6gK_FuN3KRV7b0bWBAaCyMC40AOvrMJemC8oJZjA77SfYi5n40SU36uNtL9NY2J42PRVZALCh3jqOyFh8zijkKbQzavNkenZ',
+    'user_id' => 1226,
+  ),
+)  
+[2018-02-26 12:10:43] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 796,
+)  
+[2018-02-26 12:15:14] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cMZQlo5dv4A:APA91bFuXO2-3EX4HuSZrNyrqy8yy3TnDFSaw25qIZsnDqEUyim9qrhzyREbExXrLdbFJOfP-bIT_A9Qh69VSZu9DKT6rD7vkdkPjlq8tpLk2W4uu36iGTPGFA8KBigOyPXbv3dHGMD3',
+    'user_id' => 1227,
+  ),
+)  
+[2018-02-26 12:17:22] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 800,
+)  
+[2018-02-26 12:24:51] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 801,
+)  
+[2018-02-26 12:28:35] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'd05a36f0d2da72d46d25fa9b36eed8db06cf8c93cfb6c9d7bef6a47af7fe5082',
+    'user_id' => 1228,
+  ),
+)  
+[2018-02-26 13:51:01] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fYPdjlbnSGE:APA91bEWtJw_q6YMfmbamuz6vD1bJWqk9avA2ZRJIgrcFnN2sz3S8BWCHeCBR-V__vD0d80G7RnqAAygObc--N82QK8AZlFdTt1kTXrrV8KcpW9Ve4uoIAQ-tBdlVeym9vhz9UVJb4no',
+    'user_id' => 1229,
+  ),
+)  
+[2018-02-26 14:01:27] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '081ce75a3cfdc24443497d5111d166a84eb3e3afe975deda8e395a84c235ee26',
+    'user_id' => 1231,
+  ),
+)  
+[2018-02-26 14:03:06] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'cIGXv0udbZw:APA91bHKnWYKpm6HRepy-prX1HWtPldZS7LS2_LXGJsheKe3-wFW7wfDdhxuSTVzub1HJ2CQHiRcX_D57_VFEyR957CGKyrmOfBMr6ffJQZrp5JVPzZz_i73WdzFY3ikB-2XU-y3uRA8',
+    'user_id' => 1230,
+  ),
+)  
+[2018-02-26 15:09:15] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eGp7a6FxoFM:APA91bHTHuOSkf0sJHf4X8ArY3ZApTFSRD_5Z6B7VeV7Htqnui9Jim9eqjRsKhFauWyCvk74QtMGLsbeDkU7a-PUxDfSxLIZcnmDwybTCgxD36MYosW-VFvsME1QlAs7Z91ewHb--LUj',
+    'user_id' => 1239,
+  ),
+)  
+[2018-02-26 15:13:59] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'eY1r6vJ5N70:APA91bEWn4kWLu2EoXzjWBsjonPCMenTDHQ5LTSYPBp4yCzoweEFKg20nbJicM0vMc-wXMhGwXpp0EtWuJV_mrT-MCyV1D6uoZ2_WNcsbjZOucCokL66V6bo0pAyCXInFg8cMCI1Hk2N',
+    'user_id' => 1239,
+  ),
+)  
+[2018-02-26 15:47:56] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 802,
+)  
+[2018-02-26 17:05:28] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '93a984001603774804b45c9e83c8f7d7b5ddec1936eeb878c09b32a3766059cf',
+    'user_id' => 1241,
+  ),
+)  
+[2018-02-26 17:10:13] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'd0c8002cf02699b2960e053013bdb41ae4755d67780ef4df86a01140aa298172',
+    'user_id' => 1243,
+  ),
+)  
+[2018-02-26 17:10:56] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 33394 User ID: 1242}',
+)  
+[2018-02-26 17:10:57] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "ERNEST",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-02-26 17:10:58] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1242}',
+)  
+[2018-02-26 17:10:58] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1242}',
+)  
+[2018-02-26 17:12:12] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 803,
+)  
+[2018-02-26 17:46:14] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 749,
+)  
+[2018-02-26 17:52:21] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 791,
+)  
+[2018-02-26 20:33:30] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dtW6oVUtFq0:APA91bFSqZXTcPuOhb2S_En9D79AXXmCDIA8Eh4nEcKgQmuTHztyZQUk-25KeXz8wJAw1mqnlnJtWnirV9UFepRqSOx4TOpsZchDHCl5GhOm9aUndSZTMPySDbNPob8uE4x_d41dViIj',
+    'user_id' => 1245,
+  ),
+)  
+[2018-02-26 20:59:57] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '4d997021c50174d423ce9c26617f93de48bc817c05b94479c301000fad79328d',
+    'user_id' => 1246,
+  ),
+)  
+[2018-02-26 21:13:30] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 804,
+)  
+[2018-02-26 22:33:28] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 805,
+)  
+[2018-02-26 23:00:52] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'e7ObPt6so-8:APA91bGIf3m_tl6eGE0aPAneO-NWnFVoQhOpKcVECIxpFY8lnjzD9vfPaIFS1FeoIfkp2C8DQd1xMjdC9-F0mB8WzRi69lu2zBk7CqyrzysjItOcldzU2Vaf-etV4VWyl4nFCIVCAhWD',
+    'user_id' => 1247,
+  ),
+)  

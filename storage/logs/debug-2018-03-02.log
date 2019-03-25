@@ -1,0 +1,59 @@
+[2018-03-02 05:25:23] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'fd82c752bf685b2a2b2734fb46505953b6809d5cdcb6e20af1e2045399fd3621',
+    'user_id' => 1290,
+  ),
+)  
+[2018-03-02 05:27:51] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 845,
+)  
+[2018-03-02 11:42:52] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'ci3g6CwRCHc:APA91bGx0A1m579yhQUzFTkK1SrXqVeVzPpSEl1d-SxZVB2ZFZIwkX_jwoFFvLnv_xubM_mo47KfLUdu6q5WWZ-ESMJrHq0HjuUaMbrdnDWvarYS2KnDYofCQJM9RZQN-W2yA2PUMPz3',
+    'user_id' => 1291,
+  ),
+)  
+[2018-03-02 12:01:30] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 850,
+)  
+[2018-03-02 13:21:02] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 846,
+)  
+[2018-03-02 13:21:31] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 848,
+)  
+[2018-03-02 13:21:54] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 844,
+)  
+[2018-03-02 14:42:12] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'e39406402bdee41f8799babec49fcc93d8c9341bebd451c3d97d20f573dc641e',
+    'user_id' => 1292,
+  ),
+)  
+[2018-03-02 14:54:27] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 853,
+)  
+[2018-03-02 15:30:57] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dJO34JqxYeM:APA91bEwJvNm3Q2orql1iyOgjBVLN6OixOGkPDy8ZarGPSXaE9fZ_WJN6Yu1Ij8PxKnhTYtvcicm6Jt4AY1iJVvn6LRBCdNO60XWXLMFYUv2Yi_WQJ9l94mVeFFeXaJL3Ld3FlXuN7sj',
+    'user_id' => 1264,
+  ),
+)  
+[2018-03-02 15:44:55] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 857,
+)  
+[2018-03-02 16:08:54] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 858,
+)  
+[2018-03-02 20:24:11] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 859,
+)  

@@ -1,0 +1,42 @@
+[2018-09-25 10:24:44] production.ERROR: array (
+  'Request' => 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry \'878-1672-1506\' for key \'no_duplicate_rating\' (SQL: insert into `mechanic_ratings` (`user_note`, `ratings`, `overall_rating`, `booking_id`, `mechanic_id`, `user_id`) values (, 5.0,5.0,5.0,5.0, 5.0, 1672, 878, 1506))',
+)  
+[2018-09-25 13:45:30] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'em9RYUFcW68:APA91bEtgADYcpednZ08B1XhqaVSNTJw3ht_WMYnNy0of53D78hCavrAVTAEhENBVMtVWiE0SdU9r27oYH5aDSzsKLjah-vZs168CnW-h3n4vx9g9WmrpvRNw1Isz2P-k3ZhBAJlKBIe',
+    'user_id' => 1873,
+  ),
+)  
+[2018-09-25 14:56:18] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 68191 User ID: 1874}',
+)  
+[2018-09-25 14:56:19] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Thomas Obuobi",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-09-25 14:56:20] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1874}',
+)  
+[2018-09-25 14:56:20] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1874}',
+)  
+[2018-09-25 19:13:32] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'flmfyeZ0HH4:APA91bElDvS2juN0E-Jfc9YYSy8zadldaRJflcSyen0UJEhvVPEkVSDj2LxcjLxniMkB5aPZI33g54hmvN5HJviuJAeqqODIuMrDK87_BGv-Z9wfK43McVNHNXkXqNm_-sdwUIYi5V9Mx8zAlKQ9joGPWq5dBNENyA',
+    'device' => 'android',
+    'user_id' => 1875,
+  ),
+)  
+[2018-09-25 21:15:54] production.ERROR: array (
+  'Request' => 
+  array (
+    'device_token' => 'fPvDzZ7VudY:APA91bH0CKrWwHd1Inu9g7WngeawoHB4a6o0sJ5liUFNrACQT8eVDwWRUY29hbu84PW4AAm_zGRFI5-Z1tgDoB9XcsYfULnyTfllKEGedxSICnGEZwgwKL9lkdLMhpr9zcPrvWJRXtP3',
+    'device' => 'android',
+    'user_id' => 1876,
+  ),
+)  

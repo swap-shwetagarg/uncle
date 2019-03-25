@@ -1,0 +1,11 @@
+[2018-02-14 12:37:36] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fdNEfH_7XLI:APA91bEGau2ZujINJRjezfARv0N6pcmbCf_krYzPvaiVSx-z0z8IgrRIbUiU7LygIYmKNJdHKAXT4Lh8AN2c54R9saT_geJvxflwUH0jiY8wQCn6t3tBUIEkptQ7SrW9r5u5ZJVkmTaA',
+    'user_id' => 1085,
+  ),
+)  
+[2018-02-14 16:17:55] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 694,
+)  

@@ -1,0 +1,12 @@
+[2018-03-26 11:46:13] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 950,
+)  
+[2018-03-26 11:46:34] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 948,
+)  
+[2018-03-26 11:47:29] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 946,
+)  
+[2018-03-26 12:16:25] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 949,
+)  

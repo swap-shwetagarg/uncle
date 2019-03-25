@@ -1,0 +1,61 @@
+[2018-05-06 07:12:21] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 625}',
+)  
+[2018-05-06 10:45:32] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '07e90c58b79007235bd61a7f2d051ad343f37848d1987aa4479082986c85a956',
+    'user_id' => 1493,
+  ),
+)  
+[2018-05-06 14:38:58] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'dr7m_niesd0:APA91bEuhGoQim6AcekXdLQICMBhzjCHCTQ-mSTNePRHyOcfsYkkRXeWi6NLvZme1NrGbm_PU3lt33W_qdbO-R9X2i-UlKtBzoYOOhF8NUlA9JaHwACr-a7bgCseZBhJi16Au3HG-vq9',
+    'user_id' => 1494,
+  ),
+)  
+[2018-05-06 14:43:55] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 58505 User ID: 1495}',
+)  
+[2018-05-06 14:43:56] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Prashant Tripathi",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-05-06 14:43:57] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1495}',
+)  
+[2018-05-06 14:43:57] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1495}',
+)  
+[2018-05-06 15:00:39] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 625}',
+)  
+[2018-05-06 16:52:28] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'c8e6abe893c94c16858c7a82c148d62e549ec89e1475259185668e039a26500e',
+    'user_id' => 1348,
+  ),
+)  
+[2018-05-06 17:51:02] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '700ab3a00b8b6f065669697ae2da5ecf2be8cbf1121bcd6fab44dfaf1eccd0c8',
+    'user_id' => 1496,
+  ),
+)  
+[2018-05-06 17:56:49] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '7952357691c4e74b38bca203165822c1f12c6cbaa56ebfb2c2360bb581dc3176',
+    'user_id' => 1497,
+  ),
+)  

@@ -1,0 +1,23 @@
+[2018-04-27 18:34:16] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '48945fd357466061046f929c97ab97fb90699d1a6f75a2b822ef960a388666ae',
+    'user_id' => 1131,
+  ),
+)  
+[2018-04-27 18:35:40] production.INFO: array (
+  0 => 'User\'s Car Added {Car Trim ID: 23670 User ID: 1470}',
+)  
+[2018-04-27 18:35:41] production.INFO: Broadcasting [booking-event] on channels [private-booking-channel] with payload:
+{
+    "username": "Alex Ofori",
+    "message": "One more Booking is in list",
+    "socket": null
+}  
+[2018-04-27 18:35:42] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1470}',
+)  
+[2018-04-27 18:35:42] production.INFO: array (
+  0 => 'Booking Added {Booking: 1 User ID: 1470}',
+)  

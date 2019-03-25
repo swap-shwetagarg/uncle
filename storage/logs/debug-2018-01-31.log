@@ -1,0 +1,82 @@
+[2018-01-31 00:00:09] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-31 00:00:09] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":6690953108689844690,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1517356809368114%5f25f72685120eb2"}]}',
+)  
+[2018-01-31 10:13:24] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '6528b83fbe34704b57c15a16fd9ad0cd1c6e0340fb30d51335a0fddde4e10c65',
+    'user_id' => 1065,
+  ),
+)  
+[2018-01-31 10:39:04] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => '760c01369cfa8b7133517902b97b0f1bc1ca31ec493eff7ec86414de3e6588f0',
+    'user_id' => 1066,
+  ),
+)  
+[2018-01-31 15:40:43] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'iOS',
+    'device_token' => 'ee751e2670bb2508f7950f658579275c0871611a3f78886af9f1f914d4e84056',
+    'user_id' => 1067,
+  ),
+)  
+[2018-01-31 17:01:17] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 661,
+)  
+[2018-01-31 17:01:18] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-31 17:01:18] production.INFO: array (
+  0 => 'sendNotification Android START',
+)  
+[2018-01-31 17:01:18] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8909212355941500778,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1517418078787224%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-31 17:01:18] production.INFO: array (
+  'sendNotification Android END' => '{"multicast_id":8909212355941500778,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1517418078787224%5f25f726f9fd7ecd"}]}',
+)  
+[2018-01-31 17:01:35] production.INFO: array (
+  'sendNotification BOOKING OBJECT END:' => 662,
+)  
+[2018-01-31 17:01:36] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-31 17:01:36] production.INFO: array (
+  0 => 'Inside sendNotification',
+)  
+[2018-01-31 17:01:36] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 09039607-9DD3-16C3-2A8D-B3EBDE6AAC4C
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-31 17:01:36] production.INFO: array (
+  'sendNotification END:' => 
+  array (
+    'result' => 'HTTP/2 200 
+apns-id: 09039607-9DD3-16C3-2A8D-B3EBDE6AAC4C
+
+',
+    'status_code' => 200,
+  ),
+)  
+[2018-01-31 21:02:40] production.ERROR: array (
+  'Request' => 
+  array (
+    'device' => 'android',
+    'device_token' => 'fd3-qnSbWKI:APA91bECqIGFwgH3Xs70HouakJDMY7lnnp50Mq7UM6UzW3UQjuziOd-8aA6_xngugSjp_oUJUsboE7HqcZP7tL6TwmK3vPKuQImrfXyNEs5ZssQX64d2o65pm9RjKpgDWxi-aedSnE4q',
+    'user_id' => 1068,
+  ),
+)  
